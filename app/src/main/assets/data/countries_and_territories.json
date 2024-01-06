@@ -1,0 +1,1242 @@
+[
+  {
+    "countryName": "Afghanistan",
+    "countryAlpha2Code": "AF",
+    "countryAlpha3Code": "AFG"
+  },
+  {
+    "countryName": "Ålandinseln",
+    "countryAlpha2Code": "AX",
+    "countryAlpha3Code": "ALA"
+  },
+  {
+    "countryName": "Albanien",
+    "countryAlpha2Code": "AL",
+    "countryAlpha3Code": "ALB"
+  },
+  {
+    "countryName": "Algerien",
+    "countryAlpha2Code": "DZ",
+    "countryAlpha3Code": "DZA"
+  },
+  {
+    "countryName": "Amerikanisch-Samoa",
+    "countryAlpha2Code": "AS",
+    "countryAlpha3Code": "ASM"
+  },
+  {
+    "countryName": "Andorra",
+    "countryAlpha2Code": "AD",
+    "countryAlpha3Code": "UND"
+  },
+  {
+    "countryName": "Angola",
+    "countryAlpha2Code": "AO",
+    "countryAlpha3Code": "AGO"
+  },
+  {
+    "countryName": "Anguilla",
+    "countryAlpha2Code": "AI",
+    "countryAlpha3Code": "AIA"
+  },
+  {
+    "countryName": "Antarktis",
+    "countryAlpha2Code": "AQ",
+    "countryAlpha3Code": "ATA"
+  },
+  {
+    "countryName": "Antigua und Barbuda",
+    "countryAlpha2Code": "AG",
+    "countryAlpha3Code": "ATG"
+  },
+  {
+    "countryName": "Argentinien",
+    "countryAlpha2Code": "AR",
+    "countryAlpha3Code": "ARG"
+  },
+  {
+    "countryName": "Armenien",
+    "countryAlpha2Code": "AM",
+    "countryAlpha3Code": "ARM"
+  },
+  {
+    "countryName": "Aruba",
+    "countryAlpha2Code": "AW",
+    "countryAlpha3Code": "ABW"
+  },
+  {
+    "countryName": "Australien",
+    "countryAlpha2Code": "AU",
+    "countryAlpha3Code": "AUS"
+  },
+  {
+    "countryName": "Österreich",
+    "countryAlpha2Code": "AT",
+    "countryAlpha3Code": "AUT"
+  },
+  {
+    "countryName": "Aserbaidschan",
+    "countryAlpha2Code": "AZ",
+    "countryAlpha3Code": "AZE"
+  },
+  {
+    "countryName": "Bahamas",
+    "countryAlpha2Code": "BS",
+    "countryAlpha3Code": "BHS"
+  },
+  {
+    "countryName": "Bahrain",
+    "countryAlpha2Code": "BH",
+    "countryAlpha3Code": "BHR"
+  },
+  {
+    "countryName": "Bangladesch",
+    "countryAlpha2Code": "BD",
+    "countryAlpha3Code": "BGD"
+  },
+  {
+    "countryName": "Barbados",
+    "countryAlpha2Code": "BB",
+    "countryAlpha3Code": "BRB"
+  },
+  {
+    "countryName": "Weißrussland",
+    "countryAlpha2Code": "BY",
+    "countryAlpha3Code": "BLR"
+  },
+  {
+    "countryName": "Belgien",
+    "countryAlpha2Code": "BE",
+    "countryAlpha3Code": "BEL"
+  },
+  {
+    "countryName": "Belize",
+    "countryAlpha2Code": "BZ",
+    "countryAlpha3Code": "BLZ"
+  },
+  {
+    "countryName": "Benin",
+    "countryAlpha2Code": "BJ",
+    "countryAlpha3Code": "BEN"
+  },
+  {
+    "countryName": "Bermudas",
+    "countryAlpha2Code": "BM",
+    "countryAlpha3Code": "BMU"
+  },
+  {
+    "countryName": "Bhutan",
+    "countryAlpha2Code": "BT",
+    "countryAlpha3Code": "BTN"
+  },
+  {
+    "countryName": "Bolivien",
+    "countryAlpha2Code": "BO",
+    "countryAlpha3Code": "BOL"
+  },
+  {
+    "countryName": "Bonaire, Sint Eustatius und Saba",
+    "countryAlpha2Code": "BQ",
+    "countryAlpha3Code": "BES"
+  },
+  {
+    "countryName": "Bosnien und Herzegowina",
+    "countryAlpha2Code": "BA",
+    "countryAlpha3Code": "BIH"
+  },
+  {
+    "countryName": "Botsuana",
+    "countryAlpha2Code": "BW",
+    "countryAlpha3Code": "BWA"
+  },
+  {
+    "countryName": "Bouvetinsel",
+    "countryAlpha2Code": "BV",
+    "countryAlpha3Code": "BVT"
+  },
+  {
+    "countryName": "Brasilien",
+    "countryAlpha2Code": "BR",
+    "countryAlpha3Code": "BRA"
+  },
+  {
+    "countryName": "Britisches Territorium im Indischen Ozean",
+    "countryAlpha2Code": "IO",
+    "countryAlpha3Code": "IOT"
+  },
+  {
+    "countryName": "Brunei Darussalam",
+    "countryAlpha2Code": "BN",
+    "countryAlpha3Code": "BRN"
+  },
+  {
+    "countryName": "Bulgarien",
+    "countryAlpha2Code": "BG",
+    "countryAlpha3Code": "BGR"
+  },
+  {
+    "countryName": "Burkina Faso",
+    "countryAlpha2Code": "BF",
+    "countryAlpha3Code": "BFA"
+  },
+  {
+    "countryName": "Burundi",
+    "countryAlpha2Code": "BI",
+    "countryAlpha3Code": "BDI"
+  },
+  {
+    "countryName": "Kambodscha",
+    "countryAlpha2Code": "KH",
+    "countryAlpha3Code": "KHM"
+  },
+  {
+    "countryName": "Kamerun",
+    "countryAlpha2Code": "CM",
+    "countryAlpha3Code": "CMR"
+  },
+  {
+    "countryName": "Kanada",
+    "countryAlpha2Code": "CA",
+    "countryAlpha3Code": "KANN"
+  },
+  {
+    "countryName": "Kap Verde",
+    "countryAlpha2Code": "Lebenslauf",
+    "countryAlpha3Code": "CPV"
+  },
+  {
+    "countryName": "Kaimaninseln",
+    "countryAlpha2Code": "KY",
+    "countryAlpha3Code": "CYM"
+  },
+  {
+    "countryName": "Zentralafrikanische Republik",
+    "countryAlpha2Code": "CF",
+    "countryAlpha3Code": "CAF"
+  },
+  {
+    "countryName": "Tschad",
+    "countryAlpha2Code": "TD",
+    "countryAlpha3Code": "TCD"
+  },
+  {
+    "countryName": "Chile",
+    "countryAlpha2Code": "CL",
+    "countryAlpha3Code": "CHL"
+  },
+  {
+    "countryName": "China",
+    "countryAlpha2Code": "CN",
+    "countryAlpha3Code": "CHN"
+  },
+  {
+    "countryName": "Weihnachtsinsel",
+    "countryAlpha2Code": "CX",
+    "countryAlpha3Code": "CXR"
+  },
+  {
+    "countryName": "Kokos-(Keeling-)Inseln",
+    "countryAlpha2Code": "CC",
+    "countryAlpha3Code": "CCK"
+  },
+  {
+    "countryName": "Kolumbien",
+    "countryAlpha2Code": "CO",
+    "countryAlpha3Code": "COL"
+  },
+  {
+    "countryName": "Komoren",
+    "countryAlpha2Code": "KM",
+    "countryAlpha3Code": "COM"
+  },
+  {
+    "countryName": "Kongo, Republik (Brazzaville)",
+    "countryAlpha2Code": "CG",
+    "countryAlpha3Code": "COG"
+  },
+  {
+    "countryName": "Kongo, die Demokratische Republik (Kinshasa)",
+    "countryAlpha2Code": "CD",
+    "countryAlpha3Code": "COD"
+  },
+  {
+    "countryName": "Cookinseln",
+    "countryAlpha2Code": "CK",
+    "countryAlpha3Code": "COK"
+  },
+  {
+    "countryName": "Costa Rica",
+    "countryAlpha2Code": "CR",
+    "countryAlpha3Code": "CRI"
+  },
+  {
+    "countryName": "Elfenbeinküste (Côte d'Ivoire)",
+    "countryAlpha2Code": "CI",
+    "countryAlpha3Code": "CIV"
+  },
+  {
+    "countryName": "Kroatien",
+    "countryAlpha2Code": "HR",
+    "countryAlpha3Code": "HRV"
+  },
+  {
+    "countryName": "Kuba",
+    "countryAlpha2Code": "CU",
+    "countryAlpha3Code": "CUB"
+  },
+  {
+    "countryName": "Curaçao",
+    "countryAlpha2Code": "CW",
+    "countryAlpha3Code": "CUW"
+  },
+  {
+    "countryName": "Zypern",
+    "countryAlpha2Code": "CY",
+    "countryAlpha3Code": "CYP"
+  },
+  {
+    "countryName": "Tschechische Republik",
+    "countryAlpha2Code": "CZ",
+    "countryAlpha3Code": "CZE"
+  },
+  {
+    "countryName": "Dänemark",
+    "countryAlpha2Code": "DK",
+    "countryAlpha3Code": "DNK"
+  },
+  {
+    "countryName": "Dschibuti",
+    "countryAlpha2Code": "DJ",
+    "countryAlpha3Code": "DJI"
+  },
+  {
+    "countryName": "Dominica",
+    "countryAlpha2Code": "DM",
+    "countryAlpha3Code": "DMA"
+  },
+  {
+    "countryName": "Dominikanische Republik",
+    "countryAlpha2Code": "DO",
+    "countryAlpha3Code": "DOM"
+  },
+  {
+    "countryName": "Ecuador",
+    "countryAlpha2Code": "EG",
+    "countryAlpha3Code": "ECU"
+  },
+  {
+    "countryName": "Ägypten",
+    "countryAlpha2Code": "EG",
+    "countryAlpha3Code": "EGY"
+  },
+  {
+    "countryName": "El Salvador",
+    "countryAlpha2Code": "SV",
+    "countryAlpha3Code": "SLV"
+  },
+  {
+    "countryName": "Äquatorialguinea",
+    "countryAlpha2Code": "GQ",
+    "countryAlpha3Code": "GNQ"
+  },
+  {
+    "countryName": "Eritrea",
+    "countryAlpha2Code": "ER",
+    "countryAlpha3Code": "ERI"
+  },
+  {
+    "countryName": "Estland",
+    "countryAlpha2Code": "EE",
+    "countryAlpha3Code": "EST"
+  },
+  {
+    "countryName": "Äthiopien",
+    "countryAlpha2Code": "ET",
+    "countryAlpha3Code": "ETH"
+  },
+  {
+    "countryName": "Falklandinseln (Islas Malvinas)",
+    "countryAlpha2Code": "FK",
+    "countryAlpha3Code": "FLK"
+  },
+  {
+    "countryName": "Färöer-Inseln",
+    "countryAlpha2Code": "FO",
+    "countryAlpha3Code": "FRO"
+  },
+  {
+    "countryName": "Fidschi",
+    "countryAlpha2Code": "FJ",
+    "countryAlpha3Code": "FJI"
+  },
+  {
+    "countryName": "Finnland",
+    "countryAlpha2Code": "FI",
+    "countryAlpha3Code": "FIN"
+  },
+  {
+    "countryName": "Frankreich",
+    "countryAlpha2Code": "FR",
+    "countryAlpha3Code": "FRA"
+  },
+  {
+    "countryName": "Französisch-Guayana",
+    "countryAlpha2Code": "GF",
+    "countryAlpha3Code": "GUF"
+  },
+  {
+    "countryName": "Französisch-Polynesien",
+    "countryAlpha2Code": "PF",
+    "countryAlpha3Code": "PYF"
+  },
+  {
+    "countryName": "Französische Süd- und Antarktisgebiete",
+    "countryAlpha2Code": "TF",
+    "countryAlpha3Code": "ATF"
+  },
+  {
+    "countryName": "Gabun",
+    "countryAlpha2Code": "GA",
+    "countryAlpha3Code": "GAB"
+  },
+  {
+    "countryName": "Gambia, The",
+    "countryAlpha2Code": "GM",
+    "countryAlpha3Code": "GMB"
+  },
+  {
+    "countryName": "Georgien",
+    "countryAlpha2Code": "GE",
+    "countryAlpha3Code": "GEO"
+  },
+  {
+    "countryName": "Deutschland",
+    "countryAlpha2Code": "DE",
+    "countryAlpha3Code": "DEU"
+  },
+  {
+    "countryName": "Ghana",
+    "countryAlpha2Code": "GH",
+    "countryAlpha3Code": "GHA"
+  },
+  {
+    "countryName": "Gibraltar",
+    "countryAlpha2Code": "GI",
+    "countryAlpha3Code": "GIB"
+  },
+  {
+    "countryName": "Griechenland",
+    "countryAlpha2Code": "GR",
+    "countryAlpha3Code": "GRC"
+  },
+  {
+    "countryName": "Grönland",
+    "countryAlpha2Code": "GL",
+    "countryAlpha3Code": "GRL"
+  },
+  {
+    "countryName": "Grenada",
+    "countryAlpha2Code": "GD",
+    "countryAlpha3Code": "GRD"
+  },
+  {
+    "countryName": "Guadeloupe",
+    "countryAlpha2Code": "GP",
+    "countryAlpha3Code": "GLP"
+  },
+  {
+    "countryName": "Guam",
+    "countryAlpha2Code": "GU",
+    "countryAlpha3Code": "GUMMI"
+  },
+  {
+    "countryName": "Guatemala",
+    "countryAlpha2Code": "GT",
+    "countryAlpha3Code": "GTM"
+  },
+  {
+    "countryName": "Guernsey",
+    "countryAlpha2Code": "GG",
+    "countryAlpha3Code": "GGY"
+  },
+  {
+    "countryName": "Guinea",
+    "countryAlpha2Code": "GN",
+    "countryAlpha3Code": "GIN"
+  },
+  {
+    "countryName": "Guinea-Bissau",
+    "countryAlpha2Code": "GW",
+    "countryAlpha3Code": "GNB"
+  },
+  {
+    "countryName": "Guyana",
+    "countryAlpha2Code": "GY",
+    "countryAlpha3Code": "GUY"
+  },
+  {
+    "countryName": "Haiti",
+    "countryAlpha2Code": "HT",
+    "countryAlpha3Code": "HTI"
+  },
+  {
+    "countryName": "Heard-Insel und McDonald-Inseln",
+    "countryAlpha2Code": "HM",
+    "countryAlpha3Code": "HMD"
+  },
+  {
+    "countryName": "Heiliger Stuhl (Vatikanstadt)",
+    "countryAlpha2Code": "VA",
+    "countryAlpha3Code": "VAT"
+  },
+  {
+    "countryName": "Honduras",
+    "countryAlpha2Code": "HN",
+    "countryAlpha3Code": "HND"
+  },
+  {
+    "countryName": "Hongkong",
+    "countryAlpha2Code": "HK",
+    "countryAlpha3Code": "HKG"
+  },
+  {
+    "countryName": "Ungarn",
+    "countryAlpha2Code": "HU",
+    "countryAlpha3Code": "HUN"
+  },
+  {
+    "countryName": "Island",
+    "countryAlpha2Code": "IS",
+    "countryAlpha3Code": "ISL"
+  },
+  {
+    "countryName": "Indien",
+    "countryAlpha2Code": "IN",
+    "countryAlpha3Code": "IND"
+  },
+  {
+    "countryName": "Indonesien",
+    "countryAlpha2Code": "ID",
+    "countryAlpha3Code": "IDN"
+  },
+  {
+    "countryName": "Iran, Islamische Republik",
+    "countryAlpha2Code": "IR",
+    "countryAlpha3Code": "IRN"
+  },
+  {
+    "countryName": "Irak",
+    "countryAlpha2Code": "IQ",
+    "countryAlpha3Code": "IRQ"
+  },
+  {
+    "countryName": "Irland",
+    "countryAlpha2Code": "IE",
+    "countryAlpha3Code": "IRL"
+  },
+  {
+    "countryName": "Isle of Man",
+    "countryAlpha2Code": "IM",
+    "countryAlpha3Code": "IMN"
+  },
+  {
+    "countryName": "Israel",
+    "countryAlpha2Code": "IL",
+    "countryAlpha3Code": "ISR"
+  },
+  {
+    "countryName": "Italien",
+    "countryAlpha2Code": "IT",
+    "countryAlpha3Code": "ITA"
+  },
+  {
+    "countryName": "Jamaika",
+    "countryAlpha2Code": "JM",
+    "countryAlpha3Code": "JAM"
+  },
+  {
+    "countryName": "Japan",
+    "countryAlpha2Code": "JP",
+    "countryAlpha3Code": "JPN"
+  },
+  {
+    "countryName": "Jersey",
+    "countryAlpha2Code": "JE",
+    "countryAlpha3Code": "JEY"
+  },
+  {
+    "countryName": "Jordanien",
+    "countryAlpha2Code": "JO",
+    "countryAlpha3Code": "JOR"
+  },
+  {
+    "countryName": "Kasachstan",
+    "countryAlpha2Code": "KZ",
+    "countryAlpha3Code": "KAZ"
+  },
+  {
+    "countryName": "Kenia",
+    "countryAlpha2Code": "KE",
+    "countryAlpha3Code": "KEN"
+  },
+  {
+    "countryName": "Kiribati",
+    "countryAlpha2Code": "KI",
+    "countryAlpha3Code": "KIR"
+  },
+  {
+    "countryName": "Korea, Demokratische Volksrepublik",
+    "countryAlpha2Code": "KP",
+    "countryAlpha3Code": "PRK"
+  },
+  {
+    "countryName": "Korea, Republik",
+    "countryAlpha2Code": "KR",
+    "countryAlpha3Code": "KOR"
+  },
+  {
+    "countryName": "Kuwait",
+    "countryAlpha2Code": "KW",
+    "countryAlpha3Code": "KWT"
+  },
+  {
+    "countryName": "Kirgisistan",
+    "countryAlpha2Code": "KG",
+    "countryAlpha3Code": "KGZ"
+  },
+  {
+    "countryName": "Laos",
+    "countryAlpha2Code": "LA",
+    "countryAlpha3Code": "LAO"
+  },
+  {
+    "countryName": "Lettland",
+    "countryAlpha2Code": "LV",
+    "countryAlpha3Code": "LVA"
+  },
+  {
+    "countryName": "Libanon",
+    "countryAlpha2Code": "LB",
+    "countryAlpha3Code": "LBN"
+  },
+  {
+    "countryName": "Lesotho",
+    "countryAlpha2Code": "LS",
+    "countryAlpha3Code": "LSO"
+  },
+  {
+    "countryName": "Liberia",
+    "countryAlpha2Code": "LR",
+    "countryAlpha3Code": "LBR"
+  },
+  {
+    "countryName": "Libyen",
+    "countryAlpha2Code": "LY",
+    "countryAlpha3Code": "LBY"
+  },
+  {
+    "countryName": "Liechtenstein",
+    "countryAlpha2Code": "LI",
+    "countryAlpha3Code": "LIE"
+  },
+  {
+    "countryName": "Litauen",
+    "countryAlpha2Code": "LT",
+    "countryAlpha3Code": "LTU"
+  },
+  {
+    "countryName": "Luxemburg",
+    "countryAlpha2Code": "LU",
+    "countryAlpha3Code": "LUX"
+  },
+  {
+    "countryName": "Macau",
+    "countryAlpha2Code": "MO",
+    "countryAlpha3Code": "MAC"
+  },
+  {
+    "countryName": "Mazedonien, Republik",
+    "countryAlpha2Code": "MK",
+    "countryAlpha3Code": "MKD"
+  },
+  {
+    "countryName": "Madagaskar",
+    "countryAlpha2Code": "MG",
+    "countryAlpha3Code": "MDG"
+  },
+  {
+    "countryName": "Malawi",
+    "countryAlpha2Code": "MW",
+    "countryAlpha3Code": "MWI"
+  },
+  {
+    "countryName": "Malaysia",
+    "countryAlpha2Code": "MEIN",
+    "countryAlpha3Code": "MYS"
+  },
+  {
+    "countryName": "Malediven",
+    "countryAlpha2Code": "MV",
+    "countryAlpha3Code": "MDV"
+  },
+  {
+    "countryName": "Mali",
+    "countryAlpha2Code": "ML",
+    "countryAlpha3Code": "MLI"
+  },
+  {
+    "countryName": "Malta",
+    "countryAlpha2Code": "MT",
+    "countryAlpha3Code": "MLT"
+  },
+  {
+    "countryName": "Marshallinseln",
+    "countryAlpha2Code": "MH",
+    "countryAlpha3Code": "MHL"
+  },
+  {
+    "countryName": "Martinique",
+    "countryAlpha2Code": "MQ",
+    "countryAlpha3Code": "MTQ"
+  },
+  {
+    "countryName": "Mauretanien",
+    "countryAlpha2Code": "MR",
+    "countryAlpha3Code": "MRT"
+  },
+  {
+    "countryName": "Mauritius",
+    "countryAlpha2Code": "MU",
+    "countryAlpha3Code": "MUS"
+  },
+  {
+    "countryName": "Mayotte",
+    "countryAlpha2Code": "YT",
+    "countryAlpha3Code": "MYT"
+  },
+  {
+    "countryName": "Mexiko",
+    "countryAlpha2Code": "MX",
+    "countryAlpha3Code": "MEX"
+  },
+  {
+    "countryName": "Mikronesien, Föderierte Staaten von",
+    "countryAlpha2Code": "FM",
+    "countryAlpha3Code": "FSM"
+  },
+  {
+    "countryName": "Moldawien",
+    "countryAlpha2Code": "MD",
+    "countryAlpha3Code": "MDA"
+  },
+  {
+    "countryName": "Monaco",
+    "countryAlpha2Code": "MC",
+    "countryAlpha3Code": "MCO"
+  },
+  {
+    "countryName": "Mongolei",
+    "countryAlpha2Code": "MN",
+    "countryAlpha3Code": "MNG"
+  },
+  {
+    "countryName": "Montenegro",
+    "countryAlpha2Code": "ICH",
+    "countryAlpha3Code": "MNE"
+  },
+  {
+    "countryName": "Montserrat",
+    "countryAlpha2Code": "MS",
+    "countryAlpha3Code": "MSR"
+  },
+  {
+    "countryName": "Marokko",
+    "countryAlpha2Code": "MA",
+    "countryAlpha3Code": "MAR"
+  },
+  {
+    "countryName": "Mosambik",
+    "countryAlpha2Code": "MZ",
+    "countryAlpha3Code": "MOZ"
+  },
+  {
+    "countryName": "Myanmar",
+    "countryAlpha2Code": "MM",
+    "countryAlpha3Code": "MMR"
+  },
+  {
+    "countryName": "Namibia",
+    "countryAlpha2Code": "NA",
+    "countryAlpha3Code": "NAM"
+  },
+  {
+    "countryName": "Nauru",
+    "countryAlpha2Code": "NR",
+    "countryAlpha3Code": "NRU"
+  },
+  {
+    "countryName": "Nepal",
+    "countryAlpha2Code": "NP",
+    "countryAlpha3Code": "NPL"
+  },
+  {
+    "countryName": "Niederlande",
+    "countryAlpha2Code": "NL",
+    "countryAlpha3Code": "NLD"
+  },
+  {
+    "countryName": "Neukaledonien",
+    "countryAlpha2Code": "NC",
+    "countryAlpha3Code": "NCL"
+  },
+  {
+    "countryName": "Neuseeland",
+    "countryAlpha2Code": "NZ",
+    "countryAlpha3Code": "NZL"
+  },
+  {
+    "countryName": "Nicaragua",
+    "countryAlpha2Code": "NI",
+    "countryAlpha3Code": "NIC"
+  },
+  {
+    "countryName": "Niger",
+    "countryAlpha2Code": "NE",
+    "countryAlpha3Code": "NER"
+  },
+  {
+    "countryName": "Nigeria",
+    "countryAlpha2Code": "NG",
+    "countryAlpha3Code": "NGA"
+  },
+  {
+    "countryName": "Niue",
+    "countryAlpha2Code": "NU",
+    "countryAlpha3Code": "NIU"
+  },
+  {
+    "countryName": "Norfolkinsel",
+    "countryAlpha2Code": "NF",
+    "countryAlpha3Code": "NFK"
+  },
+  {
+    "countryName": "Nördliche Marianen",
+    "countryAlpha2Code": "MP",
+    "countryAlpha3Code": "MNP"
+  },
+  {
+    "countryName": "Norwegen",
+    "countryAlpha2Code": "NEIN",
+    "countryAlpha3Code": "NOR"
+  },
+  {
+    "countryName": "Oman",
+    "countryAlpha2Code": "OM",
+    "countryAlpha3Code": "OMN"
+  },
+  {
+    "countryName": "Pakistan",
+    "countryAlpha2Code": "PK",
+    "countryAlpha3Code": "PAK"
+  },
+  {
+    "countryName": "Palau",
+    "countryAlpha2Code": "PW",
+    "countryAlpha3Code": "PLW"
+  },
+  {
+    "countryName": "Palästina, Bundesstaat",
+    "countryAlpha2Code": "PS",
+    "countryAlpha3Code": "PSE"
+  },
+  {
+    "countryName": "Panama",
+    "countryAlpha2Code": "PA",
+    "countryAlpha3Code": "PAN"
+  },
+  {
+    "countryName": "Papua-Neuguinea",
+    "countryAlpha2Code": "PG",
+    "countryAlpha3Code": "PNG"
+  },
+  {
+    "countryName": "Paraguay",
+    "countryAlpha2Code": "PY",
+    "countryAlpha3Code": "PRY"
+  },
+  {
+    "countryName": "Peru",
+    "countryAlpha2Code": "PE",
+    "countryAlpha3Code": "PER"
+  },
+  {
+    "countryName": "Philippinen",
+    "countryAlpha2Code": "PH",
+    "countryAlpha3Code": "PHL"
+  },
+  {
+    "countryName": "Pitcairn",
+    "countryAlpha2Code": "PN",
+    "countryAlpha3Code": "PCN"
+  },
+  {
+    "countryName": "Polen",
+    "countryAlpha2Code": "PL",
+    "countryAlpha3Code": "POL"
+  },
+  {
+    "countryName": "Portugal",
+    "countryAlpha2Code": "PT",
+    "countryAlpha3Code": "PRT"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "countryAlpha2Code": "PR",
+    "countryAlpha3Code": "PRI"
+  },
+  {
+    "countryName": "Katar",
+    "countryAlpha2Code": "QA",
+    "countryAlpha3Code": "QAT"
+  },
+  {
+    "countryName": "Réunion",
+    "countryAlpha2Code": "RE",
+    "countryAlpha3Code": "REU"
+  },
+  {
+    "countryName": "Rumänien",
+    "countryAlpha2Code": "RO",
+    "countryAlpha3Code": "ROU"
+  },
+  {
+    "countryName": "Russische Föderation",
+    "countryAlpha2Code": "RU",
+    "countryAlpha3Code": "RUS"
+  },
+  {
+    "countryName": "Ruanda",
+    "countryAlpha2Code": "RW",
+    "countryAlpha3Code": "RWA"
+  },
+  {
+    "countryName": "Saint Barthélemy",
+    "countryAlpha2Code": "BL",
+    "countryAlpha3Code": "BLM"
+  },
+  {
+    "countryName": "St. Helena, Ascension und Tristan da Cunha",
+    "countryAlpha2Code": "SH",
+    "countryAlpha3Code": "SHN"
+  },
+  {
+    "countryName": "St. Kitts und Nevis",
+    "countryAlpha2Code": "KN",
+    "countryAlpha3Code": "KNA"
+  },
+  {
+    "countryName": "St. Lucia",
+    "countryAlpha2Code": "LC",
+    "countryAlpha3Code": "LCA"
+  },
+  {
+    "countryName": "Saint Martin",
+    "countryAlpha2Code": "MF",
+    "countryAlpha3Code": "MFA"
+  },
+  {
+    "countryName": "St. Pierre und Miquelon",
+    "countryAlpha2Code": "PM",
+    "countryAlpha3Code": "SPM"
+  },
+  {
+    "countryName": "St. Vincent und die Grenadinen",
+    "countryAlpha2Code": "VC",
+    "countryAlpha3Code": "VCT"
+  },
+  {
+    "countryName": "Samoa",
+    "countryAlpha2Code": "WS",
+    "countryAlpha3Code": "WSM"
+  },
+  {
+    "countryName": "San Marino",
+    "countryAlpha2Code": "SM",
+    "countryAlpha3Code": "SMR"
+  },
+  {
+    "countryName": "Sao Tome und Principe",
+    "countryAlpha2Code": "ST",
+    "countryAlpha3Code": "STP"
+  },
+  {
+    "countryName": "Saudi-Arabien",
+    "countryAlpha2Code": "SA",
+    "countryAlpha3Code": "SAU"
+  },
+  {
+    "countryName": "Senegal",
+    "countryAlpha2Code": "SN",
+    "countryAlpha3Code": "SEN"
+  },
+  {
+    "countryName": "Serbien",
+    "countryAlpha2Code": "RS",
+    "countryAlpha3Code": "SRB"
+  },
+  {
+    "countryName": "Seychellen",
+    "countryAlpha2Code": "SC",
+    "countryAlpha3Code": "SYC"
+  },
+  {
+    "countryName": "Sierra Leone",
+    "countryAlpha2Code": "SL",
+    "countryAlpha3Code": "SLE"
+  },
+  {
+    "countryName": "Singapur",
+    "countryAlpha2Code": "SG",
+    "countryAlpha3Code": "SGP"
+  },
+  {
+    "countryName": "Sint Maarten (niederländischer Teil)",
+    "countryAlpha2Code": "SX",
+    "countryAlpha3Code": "SXM"
+  },
+  {
+    "countryName": "Slowakei",
+    "countryAlpha2Code": "SK",
+    "countryAlpha3Code": "SVK"
+  },
+  {
+    "countryName": "Slowenien",
+    "countryAlpha2Code": "SI",
+    "countryAlpha3Code": "SVN"
+  },
+  {
+    "countryName": "Salomonen",
+    "countryAlpha2Code": "SB",
+    "countryAlpha3Code": "SLB"
+  },
+  {
+    "countryName": "Somalia",
+    "countryAlpha2Code": "SO",
+    "countryAlpha3Code": "SOM"
+  },
+  {
+    "countryName": "Südafrika",
+    "countryAlpha2Code": "ZA",
+    "countryAlpha3Code": "ZAF"
+  },
+  {
+    "countryName": "Südgeorgien und Südliche Sandwichinseln",
+    "countryAlpha2Code": "GS",
+    "countryAlpha3Code": "SGS"
+  },
+  {
+    "countryName": "Südsudan",
+    "countryAlpha2Code": "SS",
+    "countryAlpha3Code": "SSD"
+  },
+  {
+    "countryName": "Spanien",
+    "countryAlpha2Code": "ES",
+    "countryAlpha3Code": "ESP"
+  },
+  {
+    "countryName": "Sri Lanka",
+    "countryAlpha2Code": "LK",
+    "countryAlpha3Code": "LKA"
+  },
+  {
+    "countryName": "Sudan",
+    "countryAlpha2Code": "SD",
+    "countryAlpha3Code": "SDN"
+  },
+  {
+    "countryName": "Suriname",
+    "countryAlpha2Code": "SR",
+    "countryAlpha3Code": "SUR"
+  },
+  {
+    "countryName": "Eswatini",
+    "countryAlpha2Code": "SZ",
+    "countryAlpha3Code": "SWZ"
+  },
+  {
+    "countryName": "Schweden",
+    "countryAlpha2Code": "SE",
+    "countryAlpha3Code": "SWE"
+  },
+  {
+    "countryName": "Schweiz",
+    "countryAlpha2Code": "CH",
+    "countryAlpha3Code": "CHE"
+  },
+  {
+    "countryName": "Arabische Republik Syrien",
+    "countryAlpha2Code": "SY",
+    "countryAlpha3Code": "SYR"
+  },
+  {
+    "countryName": "Taiwan",
+    "countryAlpha2Code": "TW",
+    "countryAlpha3Code": "TWN"
+  },
+  {
+    "countryName": "Tadschikistan",
+    "countryAlpha2Code": "TJ",
+    "countryAlpha3Code": "TJK"
+  },
+  {
+    "countryName": "Tansania, Vereinigte Republik",
+    "countryAlpha2Code": "TZ",
+    "countryAlpha3Code": "TZA"
+  },
+  {
+    "countryName": "Thailand",
+    "countryAlpha2Code": "TH",
+    "countryAlpha3Code": "THA"
+  },
+  {
+    "countryName": "Timor-Leste",
+    "countryAlpha2Code": "TL",
+    "countryAlpha3Code": "TLS"
+  },
+  {
+    "countryName": "Togo",
+    "countryAlpha2Code": "TG",
+    "countryAlpha3Code": "TGO"
+  },
+  {
+    "countryName": "Tokelau",
+    "countryAlpha2Code": "TK",
+    "countryAlpha3Code": "TKL"
+  },
+  {
+    "countryName": "Tonga",
+    "countryAlpha2Code": "AN",
+    "countryAlpha3Code": "TON"
+  },
+  {
+    "countryName": "Trinidad und Tobago",
+    "countryAlpha2Code": "TT",
+    "countryAlpha3Code": "TTO"
+  },
+  {
+    "countryName": "Tunesien",
+    "countryAlpha2Code": "TN",
+    "countryAlpha3Code": "TUN"
+  },
+  {
+    "countryName": "Türkei",
+    "countryAlpha2Code": "TR",
+    "countryAlpha3Code": "TUR"
+  },
+  {
+    "countryName": "Turkmenistan",
+    "countryAlpha2Code": "TM",
+    "countryAlpha3Code": "TKM"
+  },
+  {
+    "countryName": "Turks- und Caicosinseln",
+    "countryAlpha2Code": "TC",
+    "countryAlpha3Code": "TCA"
+  },
+  {
+    "countryName": "Tuvalu",
+    "countryAlpha2Code": "TV",
+    "countryAlpha3Code": "TÜV"
+  },
+  {
+    "countryName": "Uganda",
+    "countryAlpha2Code": "UG",
+    "countryAlpha3Code": "UGA"
+  },
+  {
+    "countryName": "Ukraine",
+    "countryAlpha2Code": "UA",
+    "countryAlpha3Code": "UKR"
+  },
+  {
+    "countryName": "Vereinigte Arabische Emirate",
+    "countryAlpha2Code": "AE",
+    "countryAlpha3Code": "SIND"
+  },
+  {
+    "countryName": "Vereinigtes Königreich",
+    "countryAlpha2Code": "GB",
+    "countryAlpha3Code": "GBR"
+  },
+  {
+    "countryName": "Vereinigte Staaten",
+    "countryAlpha2Code": "USA",
+    "countryAlpha3Code": "USA"
+  },
+  {
+    "countryName": "Kleinere abgelegene Inseln der Vereinigten Staaten",
+    "countryAlpha2Code": "UM",
+    "countryAlpha3Code": "UMI"
+  },
+  {
+    "countryName": "Uruguay",
+    "countryAlpha2Code": "UY",
+    "countryAlpha3Code": "URY"
+  },
+  {
+    "countryName": "Usbekistan",
+    "countryAlpha2Code": "UZ",
+    "countryAlpha3Code": "UZB"
+  },
+  {
+    "countryName": "Vanuatu",
+    "countryAlpha2Code": "VU",
+    "countryAlpha3Code": "VUT"
+  },
+  {
+    "countryName": "Venezuela, Bolivarianische Republik",
+    "countryAlpha2Code": "VE",
+    "countryAlpha3Code": "VEN"
+  },
+  {
+    "countryName": "Vietnam",
+    "countryAlpha2Code": "VN",
+    "countryAlpha3Code": "VNM"
+  },
+  {
+    "countryName": "Jungferninseln, Britisch",
+    "countryAlpha2Code": "VG",
+    "countryAlpha3Code": "VGB"
+  },
+  {
+    "countryName": "Jungferninseln, USA",
+    "countryAlpha2Code": "VI",
+    "countryAlpha3Code": "VIR"
+  },
+  {
+    "countryName": "Wallis und Futuna",
+    "countryAlpha2Code": "WF",
+    "countryAlpha3Code": "WLF"
+  },
+  {
+    "countryName": "Westsahara",
+    "countryAlpha2Code": "EH",
+    "countryAlpha3Code": "ESH"
+  },
+  {
+    "countryName": "Jemen",
+    "countryAlpha2Code": "YE",
+    "countryAlpha3Code": "YEM"
+  },
+  {
+    "countryName": "Sambia",
+    "countryAlpha2Code": "ZM",
+    "countryAlpha3Code": "ZMB"
+  },
+  {
+    "countryName": "Simbabwe",
+    "countryAlpha2Code": "ZW",
+    "countryAlpha3Code": "ZWE"
+  }
+]
