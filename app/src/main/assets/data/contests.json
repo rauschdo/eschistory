@@ -1,0 +1,1413 @@
+[
+  {
+    "issue": 1,
+    "year": 1956,
+    "hostCountry": "CHE",
+    "location": {
+      "name": "Lugano",
+      "venue": "Teatro Kursaal",
+      "lat": 46.0039535,
+      "lng": 8.952521,
+      "bulletpoints": [
+        "Als stark sanierungsbedürftiges Gebäude wurde das Teatro 2001 abgerissen. Heute steht an dieser Stelle die Spielbank Casinò Lugano."
+      ]
+    },
+    "winner": [
+      "CHE"
+    ],
+    "participants": "https://eurovision.tv/event/lugano-1956/participants",
+    "bulletpoints": [
+      "Die teilnehmenden Länder hatten jeweils zwei Interpreten",
+      "Jedes Land entsandte zwei Jurymitglieder. Sie bewerteten jedes Lied – auch die Lieder des eigenen Landes – unter Ausschluss der Öffentlichkeit. Über den Vergabemodus der Punkte ist nichts bekannt."
+    ]
+  },
+  {
+    "issue": 2,
+    "year": 1957,
+    "hostCountry": "GER",
+    "location": {
+      "name": "Frankfurt am Main",
+      "venue": "Großer Sendesaal des Hessischen Rundfunks",
+      "lat": 50.1361725,
+      "lng": 8.6756989,
+      "bulletpoints": [
+        "Fast wäre hier der Bundestag eingezogen. Doch dann hatte Bonn die Nase vorn bei der Hauptstadt-Wahl. Aus dem halbfertigten Parlamentsgebäude wurde das \"Funkhaus am Dornbusch“, der Hauptsitz des Hessischen Rundfunks."
+      ]
+    },
+    "winner": [
+      "NLD"
+    ],
+    "participants": "https://eurovision.tv/event/frankfurt-1957/participants",
+    "bulletpoints": [
+      "Neben den sieben Teilnehmern aus dem Vorjahr nahmen drei weitere teil: das Vereinigte Königreich, Dänemark und Österreich.",
+      "Die EBU entschied nur noch ein Lied aus jedem Land zuzulassen.",
+      "Das Abstimmungsverfahren war gegenüber 1956 neu gestaltet worden. In den einzelnen Ländern saßen jeweils 10 Jurymitglieder mit einer Stimme je Lied. Die Ergebnisse wurden telefonisch und öffentlich übermittelt."
+    ]
+  },
+  {
+    "issue": 3,
+    "year": 1958,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Hilversum",
+      "venue": "AVRO Studios Hilversum",
+      "lat": 52.2438262,
+      "lng": 5.1677658,
+      "bulletpoints": [
+        "Die Studios wurden zwischen 1934 und 1940 nach Plänen der Architekten Ben Merkelbach und Charles Karsten im Stil des Neuen Bauens errichtet.",
+        "Im großen Saal, dem Studio 2, fand der Grand Prix Eurovision de la Chanson in dieser Ausgabe statt."
+      ]
+    },
+    "winner": [
+      "FRA"
+    ],
+    "participants": "https://eurovision.tv/event/hilversum-1958/participants",
+    "bulletpoints": [
+      "Die Konvention wurde eingeführt, den Wettbewerb im Land des Siegers abzuhalten.",
+      "Zwar kam mit Schweden ein neues Land hinzu, aber die Teilnehmerzahl blieb zum Vorjahr gleich, da das Vereinigte Königreich wegen des schlechten Ergebnisses des Vorjahrs pausierte."
+    ]
+  },
+  {
+    "issue": 4,
+    "year": 1959,
+    "hostCountry": "FRA",
+    "location": {
+      "name": "Cannes",
+      "venue": "Palais des Festivals et des Congrès",
+      "lat": 43.5507813,
+      "lng": 7.0179622,
+      "bulletpoints": [
+        "Hier finden ganzjährig Veranstaltungen mit regionalem, nationalem und internationalem Charakter statt."
+      ]
+    },
+    "winner": [
+      "NLD"
+    ],
+    "participants": "https://eurovision.tv/event/cannes-1959/participants",
+    "bulletpoints": [
+      "Teilnehmerzahl Rekord stieg auf 11. Erstmalig nahm Monaco teil."
+    ]
+  },
+  {
+    "issue": 5,
+    "year": 1960,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "London",
+      "venue": "Royal Festival Hall",
+      "lat": 51.5058062,
+      "lng": -0.1166288,
+      "bulletpoints": []
+    },
+    "winner": [
+      "FRA"
+    ],
+    "participants": "https://eurovision.tv/event/london-1960/participants",
+    "bulletpoints": [
+      "Das Vorjahressiegerland Niederlande wollte den Wettbewerb nicht erneut ausrichten wodurch das Vereinigte Konigreich (im Vorjahr Platz 2) Gastgeber war.",
+      "Teilnehmerzahl Rekord stieg auf 13. Erstmalig nahm Norwegen, als drittes skandinavisches Land, teil."
+    ]
+  },
+  {
+    "issue": 6,
+    "year": 1961,
+    "hostCountry": "FRA",
+    "location": {
+      "name": "Cannes",
+      "venue": "Palais des Festivals et des Congrès",
+      "lat": 43.5507813,
+      "lng": 7.0179622,
+      "bulletpoints": [
+        "Hier finden ganzjährig Veranstaltungen mit regionalem, nationalem und internationalem Charakter statt."
+      ]
+    },
+    "winner": [
+      "LUX"
+    ],
+    "participants": "https://eurovision.tv/event/cannes-1961/participants",
+    "bulletpoints": [
+      "Das erste Mal fand der Eurovision Song Contest an einem Samstagabend statt. Im folgenden Jahr wurde letztmals der Wettbewerb an einem anderen Wochentag durchgeführt",
+      "Mit 16 Ländern gab es 1961 erneut einen neuen Teilnehmerrekord. Die folgenden drei Länder nahmen zum ersten Mal teil: Finnland, Spanien und Jugoslawien."
+    ]
+  },
+  {
+    "issue": 7,
+    "year": 1962,
+    "hostCountry": "LUX",
+    "location": {
+      "name": "Luxembourg",
+      "venue": "Villa Louvigny",
+      "lat": 49.6112824,
+      "lng": 6.1196804,
+      "bulletpoints": [
+        "In den 1950er Jahren wurde das Gebäude um einen Konzert- und Sendesaal sowie einen markanten achtstöckigen Turm erweitert."
+      ]
+    },
+    "winner": [
+      "FRA"
+    ],
+    "participants": "https://eurovision.tv/event/luxembourg-1962/participants",
+    "bulletpoints": [
+      "Nachdem vor allem der Hessische Rundfunk kritisierte, dass immer die gleichen Länder gewinnen, wurde das Abstimmungsverfahren geändert. Die Jurys ermittelten zunächst intern eine Reihenfolge. Dann wurden nur die Punkte der ersten Drei öffentlich übermittelt – dabei erhielt das beste Lied 3, das zweitbeste Lied 2 und das drittbeste Lied einen Punkt."
+    ]
+  },
+  {
+    "issue": 8,
+    "year": 1963,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "London",
+      "venue": "BBC Television Centre",
+      "lat": 51.5100255,
+      "lng": -0.2268465,
+      "bulletpoints": [
+        "War bis zum 31. März 2013 der Hauptsitz des BBC-Fernsehens in London.",
+        "Das Ensemble von Studio- und Bürogebäuden ist denkmalgeschützt."
+      ]
+    },
+    "winner": [
+      "DNK"
+    ],
+    "participants": "https://eurovision.tv/event/london-1963/participants",
+    "bulletpoints": [
+      "BBC bestätigte die Übernahme der Ausrichtung des Wettbewerbs nachdem Frankreich, welches in 1959 und 1961 Gastgeber war, finanzielle Mängel meldete und die Ausrichtung ablehnte.",
+      "Zunächst ermittelten die Jurys wieder intern eine Reihenfolge. Dann wurden nur die Punkte der ersten Fünf öffentlich übermittelt – dabei erhielt das beste Lied 5, das zweitbeste Lied 4, das drittbeste Lied 3, das viertbeste Lied 2 und das fünftbeste Lied einen Punkt.",
+      "Ein kleiner Skandal ereignete sich bei der Stimmenvergabe, die in der Startreihenfolge bekannt gegeben werden sollte. Als der norwegische Sprecher seine Stimmen in anderer Reihenfolge verkündete und er von der Moderatorin Katie Boyle hierauf hingewiesen wurde, erbat er sich Bedenkzeit bis zum Ende der Abstimmung, was auch gewährt wurde. Am Schluss der Abstimmung – unter fiktiver Einbeziehung der zuvor für Norwegen durchgegebenen Stimmen hätte die Schweiz in Führung gelegen – teilte der Sprecher für Norwegen seine Wertung erneut mit; sie wich jedoch von der vorherigen ab, so dass nun Dänemark vorne lag. Ende der 1990er-Jahre konnten die alten Wertungsbögen ausfindig gemacht werden. Hierbei stellte sich heraus, dass das zweite norwegische Ergebnis richtig war und Dänemark zu Recht gewonnen hatte.",
+      "Ebenso musste Monaco die Wertungen erneut verkünden, da bei der ersten Verlesung zweimal 1 Punkt vergeben wurde. Daraufhin wurde Luxemburg ein, vorher fälschlicherweise angerechneter, Punkt abgezogen."
+    ]
+  },
+  {
+    "issue": 9,
+    "year": 1964,
+    "hostCountry": "DNK",
+    "location": {
+      "name": "Kopenhagen",
+      "venue": "Tivoli",
+      "lat": 55.6736841,
+      "lng": 12.5681471,
+      "bulletpoints": [
+        "Ein Vergnügungs- und Erholungspark.",
+        "Die mit Blumenbeeten und Springbrunnen geschmückte Anlage befindet sich zwischen dem Rathausplatz und dem Hauptbahnhof."
+      ]
+    },
+    "winner": [
+      "ITA"
+    ],
+    "participants": "https://eurovision.tv/event/copenhagen-1964/participants",
+    "bulletpoints": [
+      "Es wurde ein neues Abstimmungsverfahren eingeführt. Jedes Land konnte insgesamt neun Punkte vergeben, wovon der Erstplatzierte innerhalb der Jury fünf Punkte, der Zweite drei Punkte und der Dritte einen Punkt erhielt. Sollte nur ein Lied nominiert sein, erhielte dies alle neun Punkte. Sollten es zwei sein, erhielte das Erste sechs Punkte und das Zweite drei Punkte.",
+      "Es gibt keine bewegten Aufnahmen von der Sendung; die Aufzeichnungen verbrannten bei einem Feuer beim dänischen Rundfunk. Lediglich eine Radioaufnahme existiert.",
+      "Portugal nahm zum ersten Mal teil."
+    ]
+  },
+  {
+    "issue": 10,
+    "year": 1965,
+    "hostCountry": "ITA",
+    "location": {
+      "name": "Neapel",
+      "venue": "Auditorium Rai di Napoli",
+      "lat": 40.8263541,
+      "lng": 14.1902029,
+      "bulletpoints": [
+        "Die von 1958 bis 1963 gebaute Konzerthalle diente vorrangig der Übertragung von Radiokonzerten."
+      ]
+    },
+    "winner": [
+      "LUX"
+    ],
+    "participants": "https://eurovision.tv/event/naples-1965/participants",
+    "bulletpoints": [
+      "Der Eurovision Song Contest 1965 war der erste, der von einigen Intervision-Ländern live übertragen wurde – darunter auch von der Sowjetunion.",
+      "Die Regel, dass der Beitrag in einer Landessprache erfolgen musste, wurde für den Eurovision Song Contest 1965 aufgehoben. Es war sogar ausdrücklich erlaubt, eine andere Sprache zu nutzen. Von dieser neuen Regel machte nur Schweden Gebrauch. So sang Ingvar Wixell die englische Fassung „Absent Friends“ von „Annorstädes vals“.",
+      "Es galten das im Vorjahr eingeführte Abstimmungsverfahren.",
+      "Irland nahm zum ersten Mal teil.",
+      "Der Teilnehmerrekord stieg auf 18 Länder."
+    ]
+  },
+  {
+    "issue": 11,
+    "year": 1966,
+    "hostCountry": "LUX",
+    "location": {
+      "name": "Luxembourg",
+      "venue": "Villa Louvigny",
+      "lat": 49.6112824,
+      "lng": 6.1196804,
+      "bulletpoints": [
+        "In den 1950er Jahren wurde das Gebäude um einen Konzert- und Sendesaal sowie einen markanten achtstöckigen Turm erweitert."
+      ]
+    },
+    "winner": [
+      "AUT"
+    ],
+    "participants": "https://eurovision.tv/event/luxembourg-1966/participants",
+    "bulletpoints": [
+      "Länder müssen wieder Lieder in Landessprache singen."
+    ]
+  },
+  {
+    "issue": 12,
+    "year": 1967,
+    "hostCountry": "AUT",
+    "location": {
+      "name": "Wien",
+      "venue": "Hofburg (Großer Festsaal)",
+      "lat": 48.2056578,
+      "lng": 16.3647803,
+      "bulletpoints": [
+        "Vom 13. Jahrhundert bis 1918 die Residenz der Habsburger in Wien.",
+        "Seit Ende 1946 ist sie der Amtssitz des Österreichischen Bundespräsidenten."
+      ]
+    },
+    "winner": [
+      "GBR"
+    ],
+    "participants": "https://eurovision.tv/event/vienna-1967/participants",
+    "bulletpoints": [
+      "Man kehrte zu dem Abstimmungsverfahren von 1957 zurück. In den einzelnen Ländern saßen wieder jeweils zehn Jurymitglieder, die jeweils eine Stimme an ein Lied vergeben durften. Die Ergebnisse wurden telefonisch und öffentlich übermittelt. Eine Neuerung war, dass die Hälfte der Juroren nicht das 30. Lebensjahr vollendet haben durfte, um dem Wettbewerb einen moderneren Anstrich zu verleihen."
+    ]
+  },
+  {
+    "issue": 13,
+    "year": 1968,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "London",
+      "venue": "Royal Albert Hall (of Arts and Sciences)",
+      "lat": 51.5009088,
+      "lng": -0.177366,
+      "bulletpoints": [
+        "Das am 29. März 1871 eröffnete Gebäude ist vor allem bekannt für die seit 1941 jährlich stattfindenden Proms, eine traditionelle Sommerkonzertreihe."
+      ]
+    },
+    "winner": [
+      "ESP"
+    ],
+    "participants": "https://eurovision.tv/event/london-1968/participants",
+    "bulletpoints": [
+      "Es war der erste Contest, der in Farbe gesendet wurde.",
+      "Seit 1965 übertrugen einige Intervision-Länder den Contest, ab diesem Jahr alle."
+    ]
+  },
+  {
+    "issue": 14,
+    "year": 1969,
+    "hostCountry": "ESP",
+    "location": {
+      "name": "Madrid",
+      "venue": "Teatro Real",
+      "lat": 40.418299,
+      "lng": -3.710578,
+      "bulletpoints": []
+    },
+    "winner": [
+      "FRA",
+      "NLD",
+      "ESP",
+      "GBR"
+    ],
+    "participants": "https://eurovision.tv/event/madrid-1969/participants",
+    "bulletpoints": [
+      "Gleich vier verschiedene Interpreten und Länder gewannen den Wettbewerb, da es kein Reglement für einen Gleichstand gab."
+    ]
+  },
+  {
+    "issue": 15,
+    "year": 1970,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Amsterdam",
+      "venue": "RAI Amsterdam (Congrescentrum)",
+      "lat": 52.3414484,
+      "lng": 4.8881543,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/amsterdam-1970/participants",
+    "bulletpoints": [
+      "Nachdem es im Vorjahr vier Sieger gegeben hatte ergaben sich dadurch Schwierigkeiten den Austragungsort zu bestimmen. Nachdem das Vereinigte Königreich und Spanien die vorangegangenen Bewerbe ausgetragen hatten, blieben noch Frankreich und die Niederlande übrig. Die Entscheidung fiel am 18. April 1969 durch eine Auslosung zugunsten der Niederlande.",
+      "Um einen Gleichstand wie im letzten Jahr zu vermeiden, wurde beschlossen, dass bei Punktegleichheit noch einmal eine Abstimmung der übrigen Länder (mit Ausnahme der zu beurteilenden) erfolgen sollte. Sollte dann immer noch kein Sieger feststehen, so würden eben zwei oder mehr Sieger gekürt.",
+      "Zum ersten Mal wurde der Wettbewerb in Lateinamerika von Brasilien und Chile live via Satellit übertragen.",
+      "Die Teilnehmerzahl sank auf 12, da gleich vier Länder den Wettbewerb boykottierten. Finnland, Norwegen, Portugal und Schweden waren mit den Gegebenheiten und Abstimmungsmechanismen der letztjährigen Veranstaltung unzufrieden. Die nordischen Länder begründeten ihre Abwesenheit offiziell mit dem schlechten Niveau der Show und den geringen Siegeschancen kleinerer Länder gegenüber internationalen Stars."
+    ]
+  },
+  {
+    "issue": 16,
+    "year": 1971,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Gaiety Theatre",
+      "lat": 53.3404613,
+      "lng": -6.2615754,
+      "bulletpoints": []
+    },
+    "winner": [
+      "MCO"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1971/participants",
+    "bulletpoints": [
+      "Es wurde ein neues Abstimmungsverfahren eingeführt. Jedes Land schickte zwei Juroren zum Wettbewerb, einer über, der andere unter 25 Jahren. Die beiden Juroren mussten öffentlich ihre Stimmen abgeben. Die Jurys mussten jedem Lied Punkte geben: mindestens einen Punkt, höchstens fünf Punkte.",
+      "Das neue Punktevergabesystem brachte abermals einige Verwirrung. Mehrere Länder, insgesamt immerhin 8 von 18, schöpften nicht die mögliche Höchstpunktzahl von 10 (zwei Juroren mit je 5 Punkten) für den Beitrag eines Landes aus. Eine Folge war, dass die Länder eine unterschiedliche Anzahl von Stimmen insgesamt vergaben.",
+      "Um den Contest für neue Musikgenres zu öffnen, wurde die Regel aufgehoben, dass nur Duos oder Solisten auftreten durften. Von nun an durften bis zu 6 Musiker für ein Land auf die Bühne."
+    ]
+  },
+  {
+    "issue": 17,
+    "year": 1972,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "Edinburgh",
+      "venue": "Usher Hall",
+      "lat": 55.9471153,
+      "lng": -3.2053847,
+      "bulletpoints": []
+    },
+    "winner": [
+      "LUX"
+    ],
+    "participants": "https://eurovision.tv/event/edinburgh-1972/participants",
+    "bulletpoints": [
+      "Obwohl ein Jahr zuvor Monaco gewann und dieses Land somit das Recht besessen hätte, den Eurovision Song Contest auszurichten, sah man sich in Monte Carlo außerstande, eine derartig große Show zu produzieren. Somit sprang das Vereinigte Königreich ein weiteres Mal ein.",
+      "Der Wettbewerb wurde ebenfalls in der Wettbewerb von Hongkong, Japan, den Philippinen und Thailand übertragen."
+    ]
+  },
+  {
+    "issue": 18,
+    "year": 1973,
+    "hostCountry": "LUX",
+    "location": {
+      "name": "Luxembourg",
+      "venue": "Grand Théâtre de la Ville de Luxembourg",
+      "lat": 49.6177999,
+      "lng": 6.1274959,
+      "bulletpoints": []
+    },
+    "winner": [
+      "LUX"
+    ],
+    "participants": "https://eurovision.tv/event/luxembourg-1973/participants",
+    "bulletpoints": [
+      "Israel nahm zum ersten Mal teil.",
+      "Die Regel, dass jedes Teilnehmerland in der Landessprache zu singen habe, wurde wieder aufgehoben.",
+      "Die Sicherheitsmaßnahmen wurde wegen der ersten Teilnahme Israels und des Attentats auf die Olympischen Spiele in München im Jahr zuvor verstärkt.",
+      "Die Fotografen im Saal wurden vor Beginn der Veranstaltung aufgefordert, zweimal die Saaldecke zu fotografieren, um zu beweisen, dass sie keine als Kamera getarnte Waffe mit sich führten.",
+      "Auch ließ der Produktionsmanager vor der Veranstaltung das Publikum darüber informieren, beim Applaudieren sitzen zu bleiben, da aufgrund der erhöhten Sicherheitsstufe ansonsten die Gefahr des Erschießens durch die im Saal befindlichen Sicherheitskräfte bestünde."
+    ]
+  },
+  {
+    "issue": 19,
+    "year": 1974,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "Brighton",
+      "venue": "Brighton Dome",
+      "lat": 50.8236999,
+      "lng": -0.1380842,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/brighton-1974/participants",
+    "bulletpoints": [
+      "Zwei Tage vor dem Wettbewerb wurde beschlossen, zu dem Abstimmungsverfahren zurückzukehren, das bereits von 1967 bis 1970 bzw. auch von 1957 bis 1961 galt. In den einzelnen Ländern saßen wieder jeweils 10 Jurymitglieder, die jeweils eine Stimme an ein Lied vergeben durften. Die Ergebnisse wurden telefonisch und öffentlich übermittelt.",
+      "Die Veranstaltung gilt als eine der Sternstunden des Wettbewerbs: Für die schwedische Gruppe ABBA war der Sieg der Start in eine internationale Karriere.",
+      "Erstmals wurde ein Titel von Ralph Siegel beim Wettbewerb aufgeführt, der erste von vielen kommenden..."
+    ]
+  },
+  {
+    "issue": 20,
+    "year": 1975,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Stockholm",
+      "venue": "Stockholmsmässan",
+      "lat": 59.2774548,
+      "lng": 18.015006,
+      "bulletpoints": []
+    },
+    "winner": [
+      "NLD"
+    ],
+    "participants": "https://eurovision.tv/event/stockholm-1975/participants",
+    "bulletpoints": [
+      "Erste Teilnahme der Türkei am Wettbewerb.",
+      "In diesem Jahr wurde das für den Eurovision Song Contest so typische Punktesystem eingeführt, welches es bis zum Jahr 2015 gab. In jedem Land gab es eine elfköpfige Jury, die zunächst die zehn besten Lieder intern ermittelten. Danach vergaben die einzelnen Jurys 12, 10, 8, 7, 6, 5, 4, 3, 2 Punkte und 1 Punkt an diese zehn besten Lieder."
+    ]
+  },
+  {
+    "issue": 21,
+    "year": 1976,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Den Haag",
+      "venue": "World Forum",
+      "lat": 52.0933348,
+      "lng": 4.2835977,
+      "bulletpoints": []
+    },
+    "winner": [
+      "GBR"
+    ],
+    "participants": "https://eurovision.tv/event/the-hague-1976/participants",
+    "bulletpoints": [
+      "Liechtenstein bemühte sich um eine Teilnahme. Die EBU ließ dies jedoch nicht zu, da es über keine eigene Fernsehanstalt verfügte."
+    ]
+  },
+  {
+    "issue": 22,
+    "year": 1977,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "London",
+      "venue": "Wembley Conference Centre",
+      "lat": 51.5558689,
+      "lng": -0.2878347,
+      "bulletpoints": []
+    },
+    "winner": [
+      "FRA"
+    ],
+    "participants": "https://eurovision.tv/event/london-1977/participants",
+    "bulletpoints": [
+      "Eine Regeländerung besagte, dass alle Beiträge wieder in der jeweiligen Landessprache vorgetragen werden müssen. Dies wurde allerdings relativ kurzfristig bekannt gegeben; zu diesem Zeitpunkt waren die Lieder Deutschlands und Belgiens, jeweils auf Englisch, bereits ausgewählt und erhielten daher eine Ausnahmegenehmigung."
+    ]
+  },
+  {
+    "issue": 23,
+    "year": 1978,
+    "hostCountry": "FRA",
+    "location": {
+      "name": "Paris",
+      "venue": "Palais des congrès",
+      "lat": 48.8793837,
+      "lng": 2.2836443,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ISR"
+    ],
+    "participants": "https://eurovision.tv/event/paris-1978/participants",
+    "bulletpoints": [
+      "Mit 20 Teilnehmern wurde ein neuer Rekord aufgestellt.",
+      "Erstmals wurde der Wettbewerb von zwei Moderatoren gemeinsam präsentiert.",
+      "Das erste Mal wurde der Wettbewerb auch in Dubai und Jordanien live übertragen.",
+      "Als klar war, dass Israel gewinnen würde, beendete das jordanische Fernsehen die Übertragung und zeigte einen Strauß Narzissen. Später wurde verkündet, dass Belgien (welches Zweiter wurde) den Contest gewonnen habe."
+    ]
+  },
+  {
+    "issue": 24,
+    "year": 1979,
+    "hostCountry": "ISR",
+    "location": {
+      "name": "Jerusalem",
+      "venue": "International Convention Center",
+      "lat": 31.7864423,
+      "lng": 35.2023975,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ISR"
+    ],
+    "participants": "https://eurovision.tv/event/jerusalem-1979/participants",
+    "bulletpoints": [
+      "Israel musste extra für den Wettbewerb die Einführung des Farbfernsehens vorziehen."
+    ]
+  },
+  {
+    "issue": 25,
+    "year": 1980,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Den Haag",
+      "venue": "World Forum",
+      "lat": 52.0933348,
+      "lng": 4.2835977,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/the-hague-1980/participants",
+    "bulletpoints": [
+      "Marokko nahm zum ersten und einzigen Mal teil.",
+      "Der Contest fand in Den Haag statt, nachdem sich die IBA des Vorjahressiegers Israel aus finanziellen Gründen außerstande gesehen hatte, die Veranstaltung zum zweiten Mal hintereinander auszurichten.",
+      "Bei der Verkündung der Punkte gab es eine Neuerung: Ab diesem Jahr wurden die von einem Land vergebenen Punkte in aufsteigender Wertigkeit der Punkte selbst (1, 2, 3, … 12) verlesen, während in früheren Jahren die Wertungen nach der Startreihenfolge bekanntgegeben worden waren (1979 beispielsweise: Italien 8 Punkte, Irland 5 Punkte …)."
+    ]
+  },
+  {
+    "issue": 26,
+    "year": 1981,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Royal Dublin Society (Simmonscourt Pavilion)",
+      "lat": 53.3230256,
+      "lng": -6.2281273,
+      "bulletpoints": []
+    },
+    "winner": [
+      "GBR"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1981/participants",
+    "bulletpoints": [
+      "Zum ersten Mal wurde der Contest in Ägypten übertragen."
+    ]
+  },
+  {
+    "issue": 27,
+    "year": 1982,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "Harrogate",
+      "venue": "Harrogate Convention Centre",
+      "lat": 53.3230256,
+      "lng": -6.2281273,
+      "bulletpoints": [
+        "Wurde pünktlich zur Ausrichtung des Contests eröffnet."
+      ]
+    },
+    "winner": [
+      "DEU"
+    ],
+    "participants": "https://eurovision.tv/event/harrogate-1982/participants",
+    "bulletpoints": [
+      "Zum ersten Mal Gewann Deutschland mit Nicole und Ein bißchen Frieden"
+    ]
+  },
+  {
+    "issue": 28,
+    "year": 1983,
+    "hostCountry": "DEU",
+    "location": {
+      "name": "München",
+      "venue": "Rudi-Sedlmayer-Halle (BMW-Park/Audi Dome)",
+      "lat": 48.1261064,
+      "lng": 11.5253135,
+      "bulletpoints": []
+    },
+    "winner": [
+      "LUX"
+    ],
+    "participants": "https://eurovision.tv/event/munich-1983/participants",
+    "bulletpoints": [
+      "Die Kosten für Organisation und Übertragung, die dem BR oblag, beliefen sich auf 1,5 Millionen DM, wozu 1,2 Millionen DM für die Fernsehproduktion hinzukamen."
+    ]
+  },
+  {
+    "issue": 29,
+    "year": 1984,
+    "hostCountry": "LUX",
+    "location": {
+      "name": "Luxembourg",
+      "venue": "Grand Théâtre de la Ville de Luxembourg",
+      "lat": 49.6177999,
+      "lng": 6.1274959,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/luxembourg-1984/participants",
+    "bulletpoints": []
+  },
+  {
+    "issue": 30,
+    "year": 1985,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Göteborg",
+      "venue": "Scandinavium",
+      "lat": 57.6992836,
+      "lng": 11.9850947,
+      "bulletpoints": []
+    },
+    "winner": [
+      "NOR"
+    ],
+    "participants": "https://eurovision.tv/event/gothenburg-1985/participants",
+    "bulletpoints": [
+      "Das Scandinavium in Göteborg fasste 12.000 Zuschauer – so viele waren noch nie als Zuschauer beim Wettbewerb anwesend wie in diesem Jahr."
+    ]
+  },
+  {
+    "issue": 31,
+    "year": 1986,
+    "hostCountry": "NOR",
+    "location": {
+      "name": "Bergen",
+      "venue": "Grieghallen",
+      "lat": 60.388862,
+      "lng": 5.3282038,
+      "bulletpoints": []
+    },
+    "winner": [
+      "BEL"
+    ],
+    "participants": "https://eurovision.tv/event/bergen-1986/participants",
+    "bulletpoints": [
+      "Island nahm zum ersten Mal teil.",
+      "Die Siegerin, Sandra Kim, war die jüngste Siegerin bisher. Sie gab an, 15 Jahre alt zu sein, in Wirklichkeit war sie erst 13."
+    ]
+  },
+  {
+    "issue": 32,
+    "year": 1987,
+    "hostCountry": "BEL",
+    "location": {
+      "name": "Brüssel",
+      "venue": "Palais du Centenaire",
+      "lat": 50.8998637,
+      "lng": 4.3372348,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/brussels-1987/participants",
+    "bulletpoints": [
+      "Jonny Logan siegte als erster Interpret zum zweiten Mal im Wettbewerb.",
+      "Ein neuer Teilnehmer Rekord wurde mit 22 Ländern aufgestellt.",
+      "Mit der wachsenden Teilnehmerzahl setzte die EBU ein weiches Limit von 22, welches über die Jahre variierte."
+    ]
+  },
+  {
+    "issue": 33,
+    "year": 1988,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Royal Dublin Society (Simmonscourt Pavilion)",
+      "lat": 53.3230256,
+      "lng": -6.2281273,
+      "bulletpoints": []
+    },
+    "winner": [
+      "CHE"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1988/participants",
+    "bulletpoints": [
+      "Céline Dion gewann für die Schweiz.",
+      "Zwei gigantische Videowände ersetzten die bisherige Punktetafel; auf der einen Seite wurde die erste computerbasierte Wertungstafel in der Geschichte des ESC, auf der anderen Seite Bilder der Interpreten aus dem Green Room gezeigt."
+    ]
+  },
+  {
+    "issue": 34,
+    "year": 1989,
+    "hostCountry": "CHE",
+    "location": {
+      "name": "Lausanne",
+      "venue": "Palais de Beaulieu",
+      "lat": 46.5293402,
+      "lng": 6.623266,
+      "bulletpoints": [
+        "Das historische Gebäude und Wahrzeichen des Messe- und Kongresszentrums der Stadt.",
+        "Hier fanden hauptsächlich Kongresse und kulturelle Veranstaltungen statt."
+      ]
+    },
+    "winner": [
+      "YUL"
+    ],
+    "participants": "https://eurovision.tv/event/lausanne-1989/participants",
+    "bulletpoints": [
+      "Frankreich schickte ein elfjähriges Mädchen, Israel einen zwölfjährigen Jungen ins Rennen.",
+      "Aufgrund des knappheit des Ergebnisses beim Wettbewerb des Vorjahres wurde die Tie-Break-Regel geändert. Sollte es zu einem Unentschieden kommen, wird der Sieger ermittelt, der die meisten 12 Punkte erzielt hat. Sollte dies immer noch nicht zur Entscheidung führen, gelten die meisten 10 Punkte für den Sieg. Besteht immer noch Gleichstand, wird mit den 8 Punkten genauso verfahren und so weiter, bis kein Gleichstand mehr besteht."
+    ]
+  },
+  {
+    "issue": 35,
+    "year": 1990,
+    "hostCountry": "YUL",
+    "location": {
+      "name": "Zagreb",
+      "venue": "Koncertna dvorana Vatroslava Lisinskog",
+      "lat": 45.8007725,
+      "lng": 15.9798418,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ITA"
+    ],
+    "participants": "https://eurovision.tv/event/zagreb-1990/participants",
+    "bulletpoints": [
+      "Die EBU setzte ein Mindestalter für Interpreten von 16 Jahren in Kraft. Das Alter musste nicht erreicht sein, jedoch musste der Geburtstag im Jahr des Contests liegen.",
+      "Die Regel folgte dem Sieg einer dreizehnjährigen in 1986 sowie den Sendungen Frankreichs (elfjähriges Mädchen) und Israel (zwölfjähriger Junge)."
+    ]
+  },
+  {
+    "issue": 36,
+    "year": 1991,
+    "hostCountry": "ITA",
+    "location": {
+      "name": "Rom",
+      "venue": "Cinecittà (Studio 15)",
+      "lat": 41.8517904,
+      "lng": 12.5771795,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/rome-1991/participants",
+    "bulletpoints": [
+      "Die in 1989 neue Tie-Break-Regel kam hier zum Einsatz. Die beiden erstplatzierten Teilnehmer Frankreich und Schweden bekamen beide 146 Punkte. Nach der Anzahl der 12-Punkte-Wertungen entschieden hatten beide Vertreter 12 Punkte jeweils viermal bekommen, daher entschied die Anzahl der 10-Punkte-Wertungen, von denen Schweden fünf und Frankreich zwei bekam."
+    ]
+  },
+  {
+    "issue": 37,
+    "year": 1992,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Malmö",
+      "venue": "Malmö Isstadion",
+      "lat": 55.5830567,
+      "lng": 12.9904641,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/malmo-1992/participants",
+    "bulletpoints": [
+      "Der Teilnehmer Rekord wurde um eins auf 23 Teilnehmer erhöht.",
+      "Dies war die letzte Teilnahme Jugoslawiens vor dessen Zerfall und Aufteilung der einzelne Teilnehmer."
+    ]
+  },
+  {
+    "issue": 38,
+    "year": 1993,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Millstreet",
+      "venue": "Green Glens Arena",
+      "lat": 52.0627789,
+      "lng": -9.0628266,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/millstreet-1993/participants",
+    "bulletpoints": [
+      "Erstmalige Teilnahmen waren Bosnien und Herzegowina, Kroatien und Slowenien.",
+      "Der Teilnehmer Rekord stieg auf 25, hauptsächlich bedingt durch die Aufteilung ehemaligen Jugoslawiens in neue einzelne Teilnehmer.",
+      "Ein Vorentscheid fand statt für die östeuropäischen Länder. In jedem Land vergab eine „Jury“, die aus einer Person bestand (meist TV-Funktionäre), 12, 10, 8, 7, 6 und 5 Punkte an die Lieder der anderen Länder. Ins Finale kamen nur die drei ersten Länder."
+    ]
+  },
+  {
+    "issue": 39,
+    "year": 1994,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Point Theatre (3Arena)",
+      "lat": 53.3474963,
+      "lng": -6.2285078,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1994/participants",
+    "bulletpoints": [
+      "Nachdem die osteuropäischen Länder der EBU beigetreten waren, wurde eine neue Regel eingeführt, um die Teilnehmerzahl auf 25 zu begrenzen welche in diesem Jahr auch direkt erfüllt würde und somit neuen Rekord aufstellte.",
+      "Die Plätze 1 bis 19 aus dem Vorjahr qualifizierten für die Teilnahme, andere Plätze waren nicht für die Teilnahme berechtigt.",
+      "Erste Teilnehmer im Wettbewerb waren Estland, Rumänien, Slowakei, Ungarn, Litauen, Polen und Russland.",
+      "Zum ersten Mal in der Geschichte des Wettbewerbs wurden die Punkte via Satellit verkündet, sodass die Punktesprecher auch am Bildschirm gesehen werden konnten.",
+      "Ireland siegte zum dritten Mal in Folge, dies gelang zuvor noch keinem anderen Teilnehmer."
+    ]
+  },
+  {
+    "issue": 40,
+    "year": 1995,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Point Theatre (3Arena)",
+      "lat": 53.3474963,
+      "lng": -6.2285078,
+      "bulletpoints": []
+    },
+    "winner": [
+      "NOR"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1995/participants",
+    "bulletpoints": []
+  },
+  {
+    "issue": 41,
+    "year": 1996,
+    "hostCountry": "NOR",
+    "location": {
+      "name": "Oslo",
+      "venue": "Oslo Spektrum",
+      "lat": 59.9129853,
+      "lng": 10.7547424,
+      "bulletpoints": []
+    },
+    "winner": [
+      "IRL"
+    ],
+    "participants": "https://eurovision.tv/event/oslo-1996/participants",
+    "bulletpoints": [
+      "Mit insgesamt 30 Anmeldungen für den Contest beschloß die EBU sich vom bisherigen Qualifikationssystem – die letztplatzierten Länder des Vorjahres dürfen nicht am darauffolgenden Wettbewerb teilnehmen – zu trennen und führte eine interne Qualifikationsrunde ein, in der sich alle Länder außer Gastgeber Norwegen qualifizieren mussten.",
+      "Für den Wettbewerb konnten sich 23 Teilnehmer qualifizieren."
+    ]
+  },
+  {
+    "issue": 42,
+    "year": 1997,
+    "hostCountry": "IRL",
+    "location": {
+      "name": "Dublin",
+      "venue": "Point Theatre (3Arena)",
+      "lat": 53.3474963,
+      "lng": -6.2285078,
+      "bulletpoints": []
+    },
+    "winner": [
+      "GBR"
+    ],
+    "participants": "https://eurovision.tv/event/dublin-1997/participants",
+    "bulletpoints": [
+      "Nach massiver Kritik im letzten Jahr wurde der Qualifikationsmodus geändert. Nun wurde für jedes Land die Durchschnittspunktzahl der letzten vier Jahre berechnet. Die Länder mit dem geringsten Wert mussten ein Jahr pausieren, waren aber im darauffolgenden Jahr direkt qualifiziert.",
+      "In fünf Ländern wurde Televoting erprobt. So konnten Zuschauer in Deutschland, Österreich, der Schweiz, Schweden und im Vereinigten Königreich sich bei der Abstimmung beteiligen."
+    ]
+  },
+  {
+    "issue": 43,
+    "year": 1998,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "Birmingham",
+      "venue": "National Indoor Arena (Utilita Arena Birmingham)",
+      "lat": 52.479777,
+      "lng": -1.915044,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ISR"
+    ],
+    "participants": "https://eurovision.tv/event/birmingham-1998/participants",
+    "bulletpoints": [
+      "Mazedonien nahm zum ersten mal im Wettbewerb teil. Vorherige Versuche scheiterten in der Vorentscheidung."
+    ]
+  },
+  {
+    "issue": 44,
+    "year": 1999,
+    "hostCountry": "ISR",
+    "location": {
+      "name": "Jerusalem",
+      "venue": "International Convention Center",
+      "lat": 31.7864423,
+      "lng": 35.2023975,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/jerusalem-1999/participants",
+    "bulletpoints": [
+      "Zum ersten Mal führten drei Moderatoren durch die Show.",
+      "Erstmals seit 1976 durften die teilnehmenden Länder wieder in der Sprache ihrer Wahl – vornehmlich Englisch – singen; bis einschließlich 1998 musste jedes Land in der oder den Amtssprache(n) antreten.",
+      "Auf den Einsatz eines Live-Orchesters wurde verzichtet, um Geld für die Show zu sparen; Seitdem verwenden alle Songs vorab aufgenommene Playbacks.",
+      "Neben anderen Gründen dienten diese Maßnahmen zur Verjüngung des Contests und ausweitung der Demografik."
+    ]
+  },
+  {
+    "issue": 45,
+    "year": 2000,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Stockholm",
+      "venue": "Ericsson Globe (Avicii Arena)",
+      "lat": 59.2935725,
+      "lng": 18.0835501,
+      "bulletpoints": []
+    },
+    "winner": [
+      "DNK"
+    ],
+    "participants": "https://eurovision.tv/event/stockholm-2000/participants",
+    "bulletpoints": [
+      "Lettland debürtierte in diesem Jahr beim Contest.",
+      "Frankreich, Deutschland, Spanien und das vereinigte Königreich waren die höchstbezahlten EBU-Mitglieder und jene die den Wettbewerb jedes Jahr erheblich finanzieren. Dieses Jahr führte die „Big Four“ Regel ein, welche diese Länder bei Teilnahme automatisch qualifizieren lies.",
+      "Stefan Raab trat für Deutschland an mit dem Song Wadde hadde dudde da?",
+      "Laut den EBU-Regeln für diesen Contest (veröffentlicht am 23. September 1999), sollten alle teilnehmenden Länder die Abstimmung per Televoting durchführen. In Ausnahmefällen, in denen Televoting nicht möglich war, wurde stattdessen eine Jury verwendet: Russland, Mazedonien, Türkei und Rumänien.",
+      "Die niederländische Abstimmung wurde durch eine Jury übernommen, nachdem die Ausstrahlung des Wettbewerbs, wegen der Feuerwerkskatastrophe in Enschede, abgebrochen wurde."
+    ]
+  },
+  {
+    "issue": 46,
+    "year": 2001,
+    "hostCountry": "DNK",
+    "location": {
+      "name": "Kopenhagen",
+      "venue": "Parken (Stadion)",
+      "lat": 55.7031114,
+      "lng": 12.5716352,
+      "bulletpoints": []
+    },
+    "winner": [
+      "EST"
+    ],
+    "participants": "https://eurovision.tv/event/copenhagen-2001/participants",
+    "bulletpoints": [
+      "Dieses Jahr führte die EBU zum ersten Mal einen Mix der Abstimmung für die Punkte des Landes ein (50 % Televoting und 50 % Jury). Für die Länder, die das nicht wollten, konnte auch zu 100 % ein Televoting durchgeführt werden. Nach Angaben der EBU-Regeln (veröffentlicht am 5. Oktober 2000) war es jedem Teilnehmerland frei zur Wahl gestanden, welches Abstimmungssystem durchgeführt wird. In Ausnahmefällen, in denen Televoting nicht möglich war, wurde nur eine Jury eingesetzt: Bosnien und Herzegowina, Türkei und Russland. Nur wenige Länder entschieden sich für das gemischte Abstimmungsverfahren: Kroatien, Griechenland und Malta."
+    ]
+  },
+  {
+    "issue": 47,
+    "year": 2002,
+    "hostCountry": "EST",
+    "location": {
+      "name": "Tallinn",
+      "venue": "Saku Suurhall (Unibet Arena)",
+      "lat": 59.4261914,
+      "lng": 24.6474653,
+      "bulletpoints": []
+    },
+    "winner": [
+      "LVA"
+    ],
+    "participants": "https://eurovision.tv/event/tallinn-2002/participants",
+    "bulletpoints": [
+      "Die Hälfte der Teilnehmerländer führte ein Televoting für die Punktevergabe durch."
+    ]
+  },
+  {
+    "issue": 48,
+    "year": 2003,
+    "hostCountry": "LVA",
+    "location": {
+      "name": "Riga",
+      "venue": "Skonto Hall",
+      "lat": 56.9614562,
+      "lng": 24.1148624,
+      "bulletpoints": []
+    },
+    "winner": [
+      "TUR"
+    ],
+    "participants": "https://eurovision.tv/event/riga-2003/participants",
+    "bulletpoints": [
+      "Die Ukrainierte nahm zum ersten Mal teil.",
+      "Mit 26 teilnehmenden Ländern stellte der Wettbewerb einen neuen Rekord auf.",
+      "Albanien wollte zum ersten Mal teilnehmen, wurde aber von der EBU abgelehnt, da man mit der Ukraine nur einen Neuteilnehmer etablieren wollte."
+    ]
+  },
+  {
+    "issue": 49,
+    "year": 2004,
+    "hostCountry": "TUR",
+    "location": {
+      "name": "Istanbul",
+      "venue": "Abdi İpekçi Arena (Abdi İpekçi Spor Salonu)",
+      "lat": 40.9968388,
+      "lng": 28.9194125,
+      "bulletpoints": []
+    },
+    "winner": [
+      "UKR"
+    ],
+    "participants": "https://eurovision.tv/event/istanbul-2004/participants",
+    "bulletpoints": [
+      "Der Teilnehmer Rekord schoß auf 36 Länder mit ersten Teilnahmen von Albanien, Andorra, Belarus sowie Serbien & Montenegro.",
+      "Abschaffung der aussetzungs Regeln; Einführung eines Halbfinales. Für das Finale konnten sich 24 Teilnehmer qualifizieren.",
+      "Die Konvention der Punktevergabe bisher gab vor das der Sprecher die Ergebnisse in Französisch als auch Englisch vorliest. Dies wurde geändert, der nationale Sprecher verkündet nun die Ergebnisse in einer Sprache, während die Moderatoren diese in der anderen Sprache wiederholen würden.",
+      "Ab diesem Jahr und für die zukunft folgend wird Televoting in allen Ländern verwendet."
+    ]
+  },
+  {
+    "issue": 50,
+    "year": 2005,
+    "hostCountry": "UKR",
+    "location": {
+      "name": "Kiew",
+      "venue": "Kyjiwskij Palaz Sportu (палац спорту)",
+      "lat": 50.4371855,
+      "lng": 30.5224655,
+      "bulletpoints": []
+    },
+    "winner": [
+      "GRC"
+    ],
+    "participants": "https://eurovision.tv/event/kyiv-2005/participants",
+    "bulletpoints": [
+      "Zum dritten Mal in Folge ein neuer Teilnehmer Rekord - 39 Länder mit neuen erstmaligen Teilnahmen durch Bulgarien und Moldau.",
+      "Erstmals in der Geschichte des ESC versuchten die Veranstalter mit einer Ausstellung anlässlich des Jubiläums neben der Musik auch weitere Kunstformen einzubinden.",
+      "Die „Big Four“ Deutschland, Frankreich, Spanien und das Vereinigte Königreich landeten geschlossen auf den letzten vier Plätzen."
+    ]
+  },
+  {
+    "issue": 51,
+    "year": 2006,
+    "hostCountry": "GRC",
+    "location": {
+      "name": "Athen",
+      "venue": "OAKA Olympic Indoor Hall",
+      "lat": 38.037713,
+      "lng": 23.7842981,
+      "bulletpoints": []
+    },
+    "winner": [
+      "FIN"
+    ],
+    "participants": "https://eurovision.tv/event/athens-2006/participants",
+    "bulletpoints": [
+      "Armenien nimmt zum ersten Mal teil.",
+      "Die Punktevergabe wurde durch die EBU verkürzt. Der jeweilige nationale Sprecher gibt nur die drei höchsten Wertungen durch, die ersten sieben Wertungen erschienen sofort auf der Punktetafel. Dagegen regte sich Widerstand seitens der ESC-Fangemeinschaft, wie der Zulauf zu einer entsprechenden Unterschriftensammlung im Internet zeigte."
+    ]
+  },
+  {
+    "issue": 52,
+    "year": 2007,
+    "hostCountry": "FIN",
+    "location": {
+      "name": "Helsinki",
+      "venue": "Helsinki Halli (Hartwall Areena)",
+      "lat": 60.205747,
+      "lng": 24.9291895,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SRB"
+    ],
+    "participants": "https://eurovision.tv/event/helsinki-2007/participants",
+    "bulletpoints": [
+      "Ein neuer Teilnehmer Rekord mit 42 Ländern.",
+      "Neue Teilnahmen durch Georgien, Tschechien als auch die nun getrennten Staaten Serbien und Montenegro."
+    ]
+  },
+  {
+    "issue": 53,
+    "year": 2008,
+    "hostCountry": "SRB",
+    "location": {
+      "name": "Belgrad",
+      "venue": "Belgrad Arena (Štark-Arena)",
+      "lat": 44.8141165,
+      "lng": 20.4211955,
+      "bulletpoints": []
+    },
+    "winner": [
+      "RUS"
+    ],
+    "participants": "https://eurovision.tv/event/belgrade-2008/participants",
+    "bulletpoints": [
+      "Teilnehmer Rekord steigt von 42 auf 43 Länder.",
+      "Neue Teilnahmen Aserbaidschan und San Marino. Damit hat sich die Zahl der EBU-Mitglieder, die noch nie teilgenommen haben, weiter verringert – es verbleiben nur noch Liechtenstein, der Vatikan, welcher den Wettbewerb nicht überträgt, Kasachstan und einige Mitglieder aus Nordafrika und dem Nahen Osten.",
+      "Mit einer Rekordteilnehmerzahl von 43 wurde ein zweites Halbfinale eingeführt. Jurys wurden eingesetzt, um aus jedem Halbfinale einen Wildcard-Platz ins Finale zu befördern. Im Finale treten nun 25 Länder gegeneinander an."
+    ]
+  },
+  {
+    "issue": 54,
+    "year": 2009,
+    "hostCountry": "RUS",
+    "location": {
+      "name": "Moskau",
+      "venue": "Olimpiyskiy (Олимпийский)",
+      "lat": 55.7812018,
+      "lng": 37.6260793,
+      "bulletpoints": []
+    },
+    "winner": [
+      "NOR"
+    ],
+    "participants": "https://eurovision.tv/event/moscow-2009/participants",
+    "bulletpoints": [
+      "Das Votingsystem wurde nach Kritik verändert. Nationale Juries wurden wieder eingeführt zusätzlich zum Televoting (Anteile 50/50).",
+      "Jede Jury bestand aus fünf Mitgliedern, die einen beruflichen Bezug zur Musik haben sollten. Sie durften in keiner Form an Wettbewerbstiteln beteiligt sein. Jedes Mitglied erstellte seine persönliche Rangliste nach dem seit 1975 geltenden Muster. Diese Punkte wurden zusammengezählt und so nach demselben System die Jurypunkte ermittelt. Diese Punkte wurden mit denen des Televotings zusammengerechnet."
+    ]
+  },
+  {
+    "issue": 55,
+    "year": 2010,
+    "hostCountry": "NOR",
+    "location": {
+      "name": "Oslo",
+      "venue": "Telenor Arena",
+      "lat": 59.9031487,
+      "lng": 10.623884,
+      "bulletpoints": []
+    },
+    "winner": [
+      "DEU"
+    ],
+    "participants": "https://eurovision.tv/event/oslo-2010/participants",
+    "bulletpoints": [
+      "Neu war auch, dass Anrufe des Televotings bereits ab dem ersten Lied möglich waren. Dies wurde von der EBU eingeführt mit der Begründung das es logischer sei für ein Lied anzurufen wenn man es hört, anstatt bis zum Ende der Vorstellungen zu warten.",
+      "Lena gewann für Deutschland mit dem Song Satellite.",
+      "Der Contest stand unter dem Motto „Share the Moment“. Im Zeitgeist wurde ein „Flash Mob Dance“ im Vorlauf des Contests veröffentlich. Während der Auswertung der abgegebenen Stimmen wurden Aufnahmen durch die Länder davon gezeigt, begleitet bei Madcon mit dem Titel Glow."
+    ]
+  },
+  {
+    "issue": 56,
+    "year": 2011,
+    "hostCountry": "DEU",
+    "location": {
+      "name": "Düsseldorf",
+      "venue": "Düsseldorf Arena (MERKUR SPIEL-ARENA)",
+      "lat": 51.2617881,
+      "lng": 6.7335671,
+      "bulletpoints": []
+    },
+    "winner": [
+      "AZE"
+    ],
+    "participants": "https://eurovision.tv/event/dusseldorf-2011/participants",
+    "bulletpoints": [
+      "Durch die Rückkehr von Italien zum Contest wurden aus den „großen Vier“ („Big Four“) nun die „großen Fünf“ („Big Five“) mit Deutschland, Frankreich, Italien, Spanien und dem Vereinigtes Königreich."
+    ]
+  },
+  {
+    "issue": 57,
+    "year": 2012,
+    "hostCountry": "AZE",
+    "location": {
+      "name": "Baku",
+      "venue": "Baku Crystal Hall (Bakı Kristal Zalı)",
+      "lat": 40.3442264,
+      "lng": 49.8502798,
+      "bulletpoints": [
+        "Der ESC war die Debut Veranstaltung für die Halle welche ein ein Fassungsvermögen von 25.000 Personen aufweist.",
+        "Aufgrund der Bühnenaufbauten waren 16.000 Personen beim Contest in der Halle. Die Baukosten der Halle betrugen 120 bis 140 Millionen Euro. Die Gesamtausgaben wurden vom East-West Research Centre in Baku auf 575 Millionen Euro geschätzt."
+      ]
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/baku-2012/participants",
+    "bulletpoints": [
+      "Änderungen beim Televoting - Wie zuletzt 2009 wurden die Telefonleitungen für die Abstimmung erst nach dem Vortrag des letzten Titels geöffnet, das Zeitfenster für die Abstimmung betrug wie damals 15 Minuten."
+    ]
+  },
+  {
+    "issue": 58,
+    "year": 2013,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Malmö",
+      "venue": "Malmö Arena",
+      "lat": 55.5637646,
+      "lng": 12.9762167,
+      "bulletpoints": []
+    },
+    "winner": [
+      "DNK"
+    ],
+    "participants": "https://eurovision.tv/event/malmo-2013/participants",
+    "bulletpoints": [
+      "Nach der Wiedereinführung der Jurywertung beim Eurovision Song Contest 2009 in Moskau wurde 2013 die Grundlage für die Punktevergabe verändert. In den vergangenen vier Jahren wurde bei der 50/50-Gewichtung des Televotings und der Jurywertung nicht alle Titel berücksichtigt, sondern nur die jeweiligen besten zehn.\n\nIn den teilnehmenden Ländern werden aus den Ergebnissen des Televotings und der Jurywertung ein Ranking aller an der Show teilnehmenden Titel erstellt. Dabei wird wie bisher der Titel des „eigenen“ Landes beim Ranking außer Acht gelassen. Danach werden die Platzziffern der einzelnen Lieder aus dem Televoting und der Jurywertung addiert. Die Summe der Platzziffern ergibt eine aus Televoting und Jurywertung kombinierte Reihenfolge. Die ersten zehn Titel aus dieser kombinierten Reihenfolge erhalten bei der Punktevergabe aus dem jeweiligen Land die „gebräuchlichen“ 12, 10, 8, 7, 6, 5, 4, 3, 2, 1 Punkte."
+    ]
+  },
+  {
+    "issue": 59,
+    "year": 2014,
+    "hostCountry": "DNK",
+    "location": {
+      "name": "Kopenhagen",
+      "venue": "B&W Hallerne",
+      "lat": 55.6931475,
+      "lng": 12.6141962,
+      "bulletpoints": []
+    },
+    "winner": [
+      "AUT"
+    ],
+    "participants": "https://eurovision.tv/event/copenhagen-2014/participants",
+    "bulletpoints": [
+      "Die EBU gab am 20. September 2013 bekannt, dass die Regeln des Juryvotings leicht abgewandelt werden. Nachdem es Gerüchte über gekaufte Stimmen gab, werden ab sofort die Namen der Juroren jedes Landes noch vor dem ersten Halbfinale bekannt gegeben. Ein Juror darf zudem nicht länger als zwei Jahre hintereinander am Juryvoting teilnehmen. Des Weiteren sollen die detaillierten Ergebnisse jedes einzelnen Jurors sowie die zusammengerechneten Ergebnisse der nationalen Jury- und Televotings direkt nach dem Finale verkündet werden."
+    ]
+  },
+  {
+    "issue": 60,
+    "year": 2015,
+    "hostCountry": "AUT",
+    "location": {
+      "name": "Wien",
+      "venue": "Wiener Stadthalle",
+      "lat": 48.2024077,
+      "lng": 16.3337406,
+      "bulletpoints": []
+    },
+    "winner": [
+      "SWE"
+    ],
+    "participants": "https://eurovision.tv/event/vienna-2015/participants",
+    "bulletpoints": [
+      "Die EBU erwägt die Möglichkeit, Länder außerhalb des Europäischen Rundfunkraums oder des Europarats zur Teilnahme an künftigen Ausgaben des Wettbewerbs einzuladen.",
+      "Zum 60. Geburtstag der Eurovision war Australien die erste „Gastnationen“. Damit erhöhte sich auch die Zahl der im Finale teilnehmenden Länder auf 27.",
+      "Diese Einladung war initial gedacht als einmalige Aktion, Australien etablierte sich fortführend als regelmäßiger Teilnehmer."
+    ]
+  },
+  {
+    "issue": 61,
+    "year": 2016,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Stockholm",
+      "venue": "Ericsson Globe (Avicii Arena)",
+      "lat": 59.2935725,
+      "lng": 18.0835501,
+      "bulletpoints": []
+    },
+    "winner": [
+      "UKR"
+    ],
+    "participants": "https://eurovision.tv/event/stockholm-2016/participants",
+    "bulletpoints": [
+      "Am 18. Februar 2016 kündigte die EBU eine Änderung der Punktevergabe an. In diesem Jahr wurden die Punkte der Jurys und der Telefonabstimmung nicht pro Land kombiniert, sondern separat vergeben. Damit vergab jedes Land zweimal zwölf Punkte, also doppelt so viel wie seit 1975 üblich. Die Vertreter der Länder trugen nacheinander ausschließlich die 12 Punkte des bestplatzierten Liedes der Jury vor, die Punkte 1 bis 8 sowie die 10 Punkte wurden dabei, wie zum Teil schon in den Jahren zuvor, nur eingeblendet. Nachdem alle Punkte der Jury vergeben wurden, wurden alle Punkte aus dem Televoting aller Länder kombiniert. Die Moderatoren trugen dann diese kombinierten Punkte vor, beginnend mit dem Land, das die wenigsten Punkte von den Zuschauern bekommen hatte.",
+      "Die nationalen Jurys vergaben die Hälfte aller Punkte beim Eurovision Song Contest. Dafür trafen sich die Mitglieder und sahen gemeinsam die Generalprobe der Shows. Jedes Mitglied erstellte daraufhin, basierend auf Stimme, Komposition und Originalität des Liedes, eine Rangliste aller Beiträge des Abends. Dabei sollte dies jeder unabhängig von den anderen tun. Alle Listen fertiggestellt, wurden sie von der EBU überprüft und in Punkte umgerechnet."
+    ]
+  },
+  {
+    "issue": 62,
+    "year": 2017,
+    "hostCountry": "UKR",
+    "location": {
+      "name": "Kiew",
+      "venue": "International Exhibition Centre (Міжнародний виставковий центр)",
+      "lat": 50.4520681,
+      "lng": 30.5914153,
+      "bulletpoints": []
+    },
+    "winner": [
+      "PRT"
+    ],
+    "participants": "https://eurovision.tv/event/kyiv-2017/participants",
+    "bulletpoints": []
+  },
+  {
+    "issue": 63,
+    "year": 2018,
+    "hostCountry": "PRT",
+    "location": {
+      "name": "Lissabon",
+      "venue": "Altice Arena (Pavilhão Atlântico)",
+      "lat": 38.7685312,
+      "lng": -9.0940297,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ISR"
+    ],
+    "participants": "https://eurovision.tv/event/lisbon-2018/participants",
+    "bulletpoints": [
+      "Am 27. April 2018 gab die EBU bekannt, dass die Regeln für das Juryvoting 2018 leicht abgewandelt werden. Nach dem bisherigen Verfahren erstellten alle fünf Juroren eines Landes je ein Ranking. Das Gesamtergebnis der Jury wurde ermittelt, indem für jeden Beitrag das durchschnittliche Ranking aller Jury-Mitglieder bestimmt und für die zehn bestplatzierten Beiträge anschließend die entsprechenden Punkte vergeben wurden. Hierbei hatte jede Stimme die gleiche Gewichtung. An diesem linearen Bewertungssystem wurde in der Vergangenheit allerdings oft der hohe Einfluss einer stark abweichenden Bewertung eines Juroren auf die Gesamtbewertung der Jury kritisiert. So konnte ein Land zum Beispiel kaum mehr 12 Punkte erreichen, wenn vier Jurymitglieder ein Land auf Platz 1 setzten, während der verbleibende fünfte Juror das Land auf Platz 26 setzte. Das neue System sieht ein exponentielles Bewertungsmodell vor. Danach erstellen die Juroren zwar weiterhin je ein Ranking. Allerdings wird jedem Platz ein exponentiell absteigender (nicht zwangsläufig ganzzahliger) Score-Wert zugeordnet, beginnend bei 12 Punkten für den ersten Platz und einem Punkt für den letzten Platz. Die oberen Rankingsplätze (insbesondere Plätze 1 bis 3) erfahren hierdurch nun eine höhere Gewichtung als untere Rankingplätze. Anschließend werden die durchschnittlichen Score-Werte über alle Jury-Mitglieder bestimmt und für die zehn bestplatzierten Beiträge die Punkte 1–8, 10 oder 12 vergeben. Mit diesem neuen System soll vermieden werden, dass eine stark negativ abweichende Bewertung eines Jurors im Vergleich zu den anderen Juroren zu viel Einfluss auf das Gesamtergebnis hat."
+    ]
+  },
+  {
+    "issue": 64,
+    "year": 2019,
+    "hostCountry": "ISR",
+    "location": {
+      "name": "Tel Aviv",
+      "venue": "Israel Trade Fairs & Convention Center (Expo Tel Aviv)",
+      "lat": 32.1064109,
+      "lng": 34.8100852,
+      "bulletpoints": []
+    },
+    "winner": [
+      "NLD"
+    ],
+    "participants": "https://eurovision.tv/event/tel-aviv-2019/participants",
+    "bulletpoints": [
+      "Am 30. März 2019 gab die EBU bekannt, dass sie die Reihenfolge der Bekanntgabe der Televoting-Ergebnisse im Finale nach drei Jahren ändern werde. So sollten die Punkte des Televotings nicht aufsteigend nach der Anzahl vergeben werden, sondern nach der Platzierung des Landes im Juryvoting. Wurde ein Land beispielsweise Letzter im Juryvoting, erhielt es zuerst seine Punktzahl vom Televoting, unabhängig davon, wie hoch sie war. Damit sollte bewirkt werden, dass die Punktevergabe im Finale noch spannender wird."
+    ]
+  },
+  {
+    "issue": 65,
+    "year": 2020,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Rotterdam (cancelled)",
+      "venue": "Rotterdam Ahoy",
+      "lat": 51.8827508,
+      "lng": 4.4881102,
+      "bulletpoints": []
+    },
+    "winner": [],
+    "participants": "https://eurovision.tv/event/rotterdam-2020/participants",
+    "bulletpoints": [
+      "Der Wettbewerb wurde aufgrund der COVID-19-Pandemie abgesagt."
+    ]
+  },
+  {
+    "issue": 66,
+    "year": 2021,
+    "hostCountry": "NLD",
+    "location": {
+      "name": "Rotterdam",
+      "venue": "Rotterdam Ahoy",
+      "lat": 51.8827508,
+      "lng": 4.4881102,
+      "bulletpoints": []
+    },
+    "winner": [
+      "ITA"
+    ],
+    "participants": "https://eurovision.tv/event/rotterdam-2021/participants",
+    "bulletpoints": [
+      "Am 20. März 2020 gab die EBU bekannt, dass die Referenzgruppe des ESC nach den geltenden Regeln entschieden habe, dass die Lieder, die ursprünglich für 2020 ausgewählt worden seien, nicht für 2021 nochmal eingereicht werden dürften. Es war den Rundfunkanstalten der teilnehmenden Länder überlassen, ob derselbe oder ein anderer Künstler für den ESC 2021 ausgewählt werden sollte.",
+      "Zusätzlich zu in 1999 erlaubten Playback Audio sind jetzt vorab aufgenommene Backing-Vocals erlaubt."
+    ]
+  },
+  {
+    "issue": 67,
+    "year": 2022,
+    "hostCountry": "ITA",
+    "location": {
+      "name": "Turin",
+      "venue": "Pala Alpitour",
+      "lat": 45.0415285,
+      "lng": 7.6521908,
+      "bulletpoints": []
+    },
+    "winner": [
+      "UKR"
+    ],
+    "participants": "https://eurovision.tv/event/turin-2022/participants",
+    "bulletpoints": []
+  },
+  {
+    "issue": 68,
+    "year": 2023,
+    "hostCountry": "GBR",
+    "location": {
+      "name": "Liverpool",
+      "venue": "Livepool Arena (M&S Bank Arena)",
+      "lat": 53.3970825,
+      "lng": -2.9913244,
+      "bulletpoints": []
+    },
+    "winner": [
+      "UKR"
+    ],
+    "participants": "https://eurovision.tv/event/liverpool-2023/participants",
+    "bulletpoints": [
+      "Durch den russischen Angriffskrieg in der Ukraine entschied die EBU im Juni 2022, dass eine Austragung dort nicht möglich sei. Die EBU beauftragte daraufhin die BBC, deren Beitrag 2022 den zweiten Platz erreichte, gemeinsam mit Ukraines Rundfunkanstalt UA:Suspilne mit der Ausrichtung des Wettbewerbes.",
+      "Einführung der Online-Abstimmung durch Zuschauer in nicht teilnehmenden Ländern für alle Sendungen, wobei ihre Stimmen zusammengefasst und als ein Satz Televoting-Punkte vergeben werden."
+    ]
+  },
+  {
+    "issue": 69,
+    "year": 2024,
+    "hostCountry": "SWE",
+    "location": {
+      "name": "Malmö",
+      "venue": "Malmö Arena",
+      "lat": 55.5637646,
+      "lng": 12.9762167,
+      "bulletpoints": []
+    },
+    "winner": [],
+    "participants": "https://eurovision.tv/event/malmo-2024/participants",
+    "bulletpoints": []
+  }
+]
