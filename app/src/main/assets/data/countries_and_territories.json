@@ -826,7 +826,7 @@
   },
   {
     "countryName": "Norwegen",
-    "countryAlpha2Code": "NEIN",
+    "countryAlpha2Code": "NO",
     "countryAlpha3Code": "NOR"
   },
   {
@@ -1238,5 +1238,10 @@
     "countryName": "Simbabwe",
     "countryAlpha2Code": "ZW",
     "countryAlpha3Code": "ZWE"
+  },
+  {
+    "countryName": "Jugoslawien (historisch)",
+    "countryAlpha2Code": "YU",
+    "countryAlpha3Code": "YUL"
   }
 ]
