@@ -58,13 +58,24 @@ android {
         debug {
             isDebuggable = true
         }
-        release {
+
+        val release = getByName("release") {
             isMinifyEnabled = false
+            isShrinkResources = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-//            signingConfig =
+            // In real app, this would use its own release keystore
+            signingConfig = signingConfigs.getByName("debug")
+        }
+
+        create("benchmark") {
+            initWith(release)
+            signingConfig = signingConfigs.getByName("debug")
+            // Selects release buildType if the benchmark buildType not available in other modules.
+            matchingFallbacks.add("release")
+            proguardFiles("benchmark-rules.pro")
         }
     }
 

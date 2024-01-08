@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "de.lottoth.online.benchmark"
+    namespace = "de.rauschdo.benchmark"
     compileSdk = Configuration.compileSdk
 
     compileOptions {
@@ -27,23 +27,21 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    targetProjectPath = ":app"
 
-    flavorDimensions += "server"
-    productFlavors {
-        create("envLts") {
-            dimension = "server"
-        }
-        create("envDev") {
-            dimension = "server"
-        }
-        create("envTest") {
-            dimension = "server"
-        }
-        create("envProd") {
-            dimension = "server"
+    buildTypes {
+        // This benchmark buildType is used for benchmarking, and should function like your
+        // release build (for example, with minification on). It"s signed with a debug key
+        // for easy local/CI testing.
+        create("benchmark") {
+            isDebuggable = true
+            signingConfig = getByName("debug").signingConfig
+            matchingFallbacks += listOf("release")
         }
     }
+
+    targetProjectPath = ":app"
+    // Enable the benchmark to run separately from the app process
+    experimentalProperties["android.experimental.self-instrumenting"] = true
 
     testOptions.managedDevices.devices {
         maybeCreate<com.android.build.api.dsl.ManagedVirtualDevice>("pixel6api31").apply {
@@ -72,4 +70,10 @@ dependencies {
     implementation(libs.androidx.test.espresso)
     implementation(libs.androidx.test.uiautomator)
     implementation(libs.androidx.benchmark.macro)
+}
+
+androidComponents {
+    beforeVariants(selector().all()) {
+        it.enable = it.buildType == "benchmark"
+    }
 }
