@@ -19,6 +19,7 @@ daggerHilt = "2.50"
 #
 retrofit = "2.9.0"
 okhttp = "4.11.0"
+gson = "2.10.1"
 coil = "2.4.0"
 timber = "5.0.1"
 showkase = "1.0.2"
@@ -62,6 +63,7 @@ retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = 
 retrofit-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
 okhttp3-logging-interceptor = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "okhttp" }
 okhttp3-urlconnection = { group = "com.squareup.okhttp3", name = "okhttp-urlconnection", version.ref = "okhttp" }
+gson = { group = "com.google.code.gson", name = "gson", version.ref = "gson" }
 coil-compose = { group = "io.coil-kt", name = "coil-compose", version.ref = "coil" }
 timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "timber" }
 showkase = { group = "com.airbnb.android", name = "showkase", version.ref = "showkase" }

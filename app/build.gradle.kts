@@ -159,6 +159,7 @@ dependencies {
 //    implementation(libs.retrofit.gson)
 //    implementation(libs.okhttp3.logging.interceptor)
 //    implementation(libs.okhttp3.urlconnection)
+    implementation(libs.gson)
     implementation(libs.coil.compose)
     implementation(libs.timber)
     debugImplementation(libs.showkase)
