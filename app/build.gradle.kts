@@ -8,6 +8,7 @@ plugins {
     id(libs.plugins.dagger.get().pluginId)
     id(libs.plugins.benchmark.get().pluginId)
     id(libs.plugins.ksp.get().pluginId)
+    id(libs.plugins.realm.get().pluginId)
 }
 
 inline fun <reified ValueT> VariantDimension.buildConfigField(
@@ -125,6 +126,7 @@ dependencies {
     testImplementation(libs.kotlinx.coroutines.test)
     androidTestImplementation(libs.kotlinx.coroutines.test)
     implementation(libs.ksp.api)
+    implementation(libs.realm)
     //
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.compose.ui)

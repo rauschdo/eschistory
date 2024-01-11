@@ -5,6 +5,7 @@ plugins {
     alias(libs.plugins.dagger) apply false
     alias(libs.plugins.benchmark) apply false
     alias(libs.plugins.ksp) apply false
+    alias(libs.plugins.realm) apply false
 }
 
 buildscript {

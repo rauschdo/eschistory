@@ -27,6 +27,7 @@ import de.rauschdo.eschistory.ui.navigation.AppNavDest
 import de.rauschdo.eschistory.ui.navigation.BottomBarItem
 import de.rauschdo.eschistory.ui.navigation.MainNavHost
 import de.rauschdo.eschistory.ui.theme.EurovisionHistoryTheme
+import de.rauschdo.eschistory.utility.DataSource
 import de.rauschdo.eschistory.utility.browser.CustomTabActivityHelper
 
 val LocalAppNav = compositionLocalOf { AppNav() }
@@ -39,6 +40,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mCustomTabActivityHelper = CustomTabActivityHelper(this)
+        DataSource.create(this)
         setContent {
             EurovisionHistoryTheme {
                 MainApp()
