@@ -143,6 +143,7 @@ dependencies {
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.profileinstaller)
     baselineProfile(project(":benchmark"))
+    implementation(libs.androidx.browser)
     implementation(libs.androidx.hilt.navigation)
     //
     implementation(libs.dagger.hilt.android)

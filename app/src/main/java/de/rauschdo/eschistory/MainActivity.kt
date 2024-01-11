@@ -27,18 +27,33 @@ import de.rauschdo.eschistory.ui.navigation.AppNavDest
 import de.rauschdo.eschistory.ui.navigation.BottomBarItem
 import de.rauschdo.eschistory.ui.navigation.MainNavHost
 import de.rauschdo.eschistory.ui.theme.EurovisionHistoryTheme
+import de.rauschdo.eschistory.utility.browser.CustomTabActivityHelper
 
 val LocalAppNav = compositionLocalOf { AppNav() }
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
+
+    private var mCustomTabActivityHelper: CustomTabActivityHelper? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        mCustomTabActivityHelper = CustomTabActivityHelper(this)
         setContent {
             EurovisionHistoryTheme {
                 MainApp()
             }
         }
+    }
+
+    override fun onStart() {
+        super.onStart()
+        mCustomTabActivityHelper?.bindCustomTabsService()
+    }
+
+    override fun onStop() {
+        super.onStop()
+        mCustomTabActivityHelper?.unbindCustomTabsService()
     }
 }
 
