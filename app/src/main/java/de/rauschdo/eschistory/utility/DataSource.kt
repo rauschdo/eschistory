@@ -11,7 +11,7 @@ import java.io.InputStream
 
 object DataSource {
 
-    fun create(context: Context, realm: Realm) {
+    fun create(context: Context) {
         // TODO check database regarding version of dataset
         // if matching return from db, otherwise parse and safe anew
     }

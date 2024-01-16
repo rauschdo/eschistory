@@ -9,6 +9,7 @@ plugins {
     id(libs.plugins.benchmark.get().pluginId)
     id(libs.plugins.ksp.get().pluginId)
     id(libs.plugins.realm.get().pluginId)
+    id(libs.plugins.protobuf.get().pluginId)
 }
 
 inline fun <reified ValueT> VariantDimension.buildConfigField(
@@ -142,6 +143,8 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtimeKtx)
     implementation(libs.androidx.lifecycle.viewModelCompose)
     implementation(libs.androidx.lifecycle.runtimeCompose)
+    implementation(libs.androidx.datastore)
+    implementation(libs.protobuf.javalite)
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.profileinstaller)
     baselineProfile(project(":benchmark"))
@@ -172,4 +175,20 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.junit)
     androidTestImplementation(libs.androidx.test.espresso)
+}
+
+protobuf {
+    protoc {
+        // https://mvnrepository.com/artifact/com.google.protobuf/protoc
+        artifact = "com.google.protobuf:protoc:3.25.2"
+    }
+    generateProtoTasks {
+        all().forEach {
+            it.builtins {
+                create("java") {
+                    option("lite")
+                }
+            }
+        }
+    }
 }

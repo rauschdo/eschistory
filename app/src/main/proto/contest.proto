@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_package = "de.rauschdo.eschistory";
+option java_multiple_files = true;
+
+// https://www.tutorialspoint.com/protobuf/protobuf_numbers.htm
+// int32, int64, float, double translates to
+// int, long, float, double
+
+message ContestLocation {
+  repeated string bulletpoints = 1;
+  double lat = 2;
+  double lng = 3;
+  string name = 4;
+  string venue = 5;
+}
+
+message ContestItemProto {
+  repeated string bulletpoints = 1;
+  string hostCountry = 2;
+  int32 issue = 3;
+  ContestLocation location = 4;
+  string participants = 5;
+  repeated string winner = 6;
+  int32 year = 7;
+}
+
+message ContestsProto {
+  repeated ContestItemProto items = 1;
+}

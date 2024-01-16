@@ -6,6 +6,7 @@ plugins {
     alias(libs.plugins.benchmark) apply false
     alias(libs.plugins.ksp) apply false
     alias(libs.plugins.realm) apply false
+    alias(libs.plugins.protobuf) apply false
 }
 
 buildscript {

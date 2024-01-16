@@ -9,6 +9,7 @@ More to come...
 - [Compose](https://developer.android.com/jetpack/androidx/releases/compose) as Declarative UI Framework
 - [Hilt](https://developer.android.com/jetpack/androidx/releases/hilt) for Dependency Injection
 - [Browser](https://developer.android.com/jetpack/androidx/releases/browser) for In-App Web experience via [Custom Tabs](https://developer.chrome.com/docs/android/custom-tabs)
-- [Atlas Device SDK (previously Realm)](https://www.mongodb.com/docs/realm/sdk/kotlin/) as example for persistance
+- [Atlas Device SDK (previously Realm)](https://www.mongodb.com/docs/realm/sdk/kotlin/) as example for persistence
+- [Datastore](https://developer.android.com/jetpack/androidx/releases/datastore) in combination with [Protobuf Java Lite](https://github.com/protocolbuffers/protobuf/blob/main/java/lite.md) as another example for persistence
 - [Coil](https://coil-kt.github.io/coil/compose/) for image loading
 - [Showkase](https://github.com/airbnb/Showkase) for visualizing UI Elements
