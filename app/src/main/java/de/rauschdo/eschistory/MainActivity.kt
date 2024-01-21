@@ -17,9 +17,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
+import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavDestination
 import androidx.navigation.NavDestination.Companion.hierarchy
 import dagger.hilt.android.AndroidEntryPoint
+import de.rauschdo.eschistory.data.RealmHelper
 import de.rauschdo.eschistory.ui.main.MainAppState
 import de.rauschdo.eschistory.ui.main.rememberMainAppState
 import de.rauschdo.eschistory.ui.navigation.AppNav
@@ -29,18 +31,29 @@ import de.rauschdo.eschistory.ui.navigation.MainNavHost
 import de.rauschdo.eschistory.ui.theme.EurovisionHistoryTheme
 import de.rauschdo.eschistory.utility.DataSource
 import de.rauschdo.eschistory.utility.browser.CustomTabActivityHelper
+import kotlinx.coroutines.launch
+import javax.inject.Inject
 
 val LocalAppNav = compositionLocalOf { AppNav() }
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
+    @Inject
+    lateinit var realmHelper: RealmHelper
+
     private var mCustomTabActivityHelper: CustomTabActivityHelper? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mCustomTabActivityHelper = CustomTabActivityHelper(this)
-        DataSource.create(this)
+        with(realmHelper) {
+            lifecycleScope.launch {
+                DataSource.create(this@MainActivity)?.let {
+                    insertContestsDataset(it)
+                }
+            }
+        }
         setContent {
             EurovisionHistoryTheme {
                 MainApp()

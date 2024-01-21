@@ -23,10 +23,10 @@ class RealmHelper @Inject constructor(
     private val dispatchers: DispatcherProvider
 ) {
 
-    suspend fun RealmList<DbContest>.insertContestsDataset() {
+    suspend fun insertContestsDataset(contestsForDb: RealmList<DbContest>) {
         realm.write {
             // Copy all objects to the realm to return managed instances
-            this@insertContestsDataset.map {
+            contestsForDb.map {
                 copyToRealm(it)
             }
         }

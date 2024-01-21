@@ -5,16 +5,14 @@ import android.content.res.Resources
 import com.google.gson.GsonBuilder
 import de.rauschdo.eschistory.data.ContestsList
 import de.rauschdo.eschistory.data.CountryList
+import de.rauschdo.eschistory.data.mapToDbContests
 import de.rauschdo.eschistory.utility.DataSource.parseJson
 import io.realm.kotlin.Realm
 import java.io.InputStream
 
 object DataSource {
 
-    fun create(context: Context, realm: Realm) {
-        // TODO check database regarding version of dataset
-        // if matching return from db, otherwise parse and safe anew
-    }
+    fun create(context: Context) = context.loadContestData()?.mapToDbContests()
 
     private fun Context.loadContestData(): ContestsList? =
         parseJson("data/contests.json")
