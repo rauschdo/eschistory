@@ -6,12 +6,10 @@ import de.rauschdo.eschistory.di.DispatcherProvider
 import io.realm.kotlin.Realm
 import io.realm.kotlin.notifications.InitialResults
 import io.realm.kotlin.notifications.ResultsChange
-import io.realm.kotlin.types.RealmList
 import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Deferred
-import kotlinx.coroutines.async
 import kotlinx.coroutines.flow.Flow
-import timber.log.Timber
+import kotlinx.coroutines.flow.collectLatest
+import kotlinx.coroutines.launch
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -23,31 +21,30 @@ class RealmHelper @Inject constructor(
     private val dispatchers: DispatcherProvider
 ) {
 
-    suspend fun insertContestsDataset(contestsForDb: RealmList<DbContest>) {
-        realm.write {
-            // Copy all objects to the realm to return managed instances
-            contestsForDb.map {
-                copyToRealm(it)
+    fun handleContestDataset(contestsList: ContestsList) {
+        CoroutineScope(dispatchers.io()).launch {
+            // first check against version
+            realm.query(DbDataset::class).asFlow().collectLatest { dbDatasets ->
+                when (dbDatasets) {
+                    is InitialResults<DbDataset> -> {
+                        dbDatasets.list.find { it.version == contestsList.datasetVersion }?.also {
+                            if (contestsList.datasetVersion > it.version) {
+                                // newer version
+                                realm.write { copyToRealm(contestsList.mapToDbDataset()) }
+                            }
+                        }
+                        // this version is not in database
+                            ?: realm.write { copyToRealm(contestsList.mapToDbDataset()) }
+                    }
+
+                    else -> {
+                        // do nothing on changes
+                    }
+                }
             }
         }
     }
 
     // https://www.mongodb.com/docs/realm/sdk/kotlin/realm-database/crud/read/#find-objects-of-a-type
-    val contestFlow: Flow<ResultsChange<DbContest>> = realm.query(DbContest::class).asFlow()
-    val asyncCall: Deferred<Unit> = CoroutineScope(dispatchers.io()).async {
-        contestFlow.collect { results ->
-            when (results) {
-                // print out initial results
-                is InitialResults<DbContest> -> {
-                    results.list.forEach {
-                        Timber.i("Contest $it")
-                    }
-                }
-
-                else -> {
-                    // do nothing on changes
-                }
-            }
-        }
-    }
+    val datasetFlow: Flow<ResultsChange<DbDataset>> = realm.query(clazz = DbDataset::class).asFlow()
 }

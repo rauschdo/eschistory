@@ -137,8 +137,10 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     //
     implementation(libs.androidx.compose.constraintlayout)
+    implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.transition.ktx)
     implementation(libs.androidx.lifecycle.runtimeKtx)
     implementation(libs.androidx.lifecycle.viewModelCompose)
     implementation(libs.androidx.lifecycle.runtimeCompose)

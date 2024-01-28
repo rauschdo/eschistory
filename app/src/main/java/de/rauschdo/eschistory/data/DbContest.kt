@@ -4,15 +4,9 @@ import com.google.gson.Gson
 import io.realm.kotlin.ext.realmListOf
 import io.realm.kotlin.types.EmbeddedRealmObject
 import io.realm.kotlin.types.RealmList
-import io.realm.kotlin.types.RealmObject
-import io.realm.kotlin.types.annotations.PrimaryKey
-import org.mongodb.kbson.ObjectId
 
-class DbContest : RealmObject { // Empty constructor required by Realm
-    @PrimaryKey
-    var _id: ObjectId = ObjectId()
+class DbContest : EmbeddedRealmObject {
     var issue: Int = -1
-
     var bulletpoints: String? = null
     var hostCountry: String = ""
     var location: DbContestLocation? = null
@@ -30,7 +24,12 @@ class DbContestLocation : EmbeddedRealmObject {
     var venue: String = ""
 }
 
-fun ContestsList.mapToDbContests(): RealmList<DbContest> {
+fun ContestsList.mapToDbDataset() = DbDataset().apply {
+    version = this@mapToDbDataset.datasetVersion
+    contests = this@mapToDbDataset.contests.mapToDbContests()
+}
+
+private fun List<ContestsList.Contest>.mapToDbContests(): RealmList<DbContest> {
     val gson = Gson()
     val list = realmListOf<DbContest>()
     list.addAll(
@@ -49,10 +48,11 @@ fun ContestsList.mapToDbContests(): RealmList<DbContest> {
     return list
 }
 
-private fun Contest.Location.mapToDbContestLocation(gson: Gson) = DbContestLocation().apply {
-    bulletpoints = gson.toJson(this@mapToDbContestLocation.bulletpoints)
-    lat = this@mapToDbContestLocation.lat
-    lng = this@mapToDbContestLocation.lng
-    name = this@mapToDbContestLocation.name
-    venue = this@mapToDbContestLocation.venue
-}
+private fun ContestsList.Contest.Location.mapToDbContestLocation(gson: Gson) =
+    DbContestLocation().apply {
+        bulletpoints = gson.toJson(this@mapToDbContestLocation.bulletpoints)
+        lat = this@mapToDbContestLocation.lat
+        lng = this@mapToDbContestLocation.lng
+        name = this@mapToDbContestLocation.name
+        venue = this@mapToDbContestLocation.venue
+    }

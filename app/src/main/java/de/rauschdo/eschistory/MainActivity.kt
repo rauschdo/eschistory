@@ -1,8 +1,12 @@
 package de.rauschdo.eschistory
 
 import android.os.Bundle
+import androidx.activity.BackEventCompat
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
+import androidx.activity.compose.PredictiveBackHandler
 import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
@@ -13,15 +17,16 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.compositionLocalOf
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
-import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavDestination
 import androidx.navigation.NavDestination.Companion.hierarchy
 import dagger.hilt.android.AndroidEntryPoint
 import de.rauschdo.eschistory.data.RealmHelper
+import de.rauschdo.eschistory.ui.main.DialogController
 import de.rauschdo.eschistory.ui.main.MainAppState
 import de.rauschdo.eschistory.ui.main.rememberMainAppState
 import de.rauschdo.eschistory.ui.navigation.AppNav
@@ -31,8 +36,10 @@ import de.rauschdo.eschistory.ui.navigation.MainNavHost
 import de.rauschdo.eschistory.ui.theme.EurovisionHistoryTheme
 import de.rauschdo.eschistory.utility.DataSource
 import de.rauschdo.eschistory.utility.browser.CustomTabActivityHelper
-import kotlinx.coroutines.launch
+import kotlinx.coroutines.flow.Flow
+import timber.log.Timber
 import javax.inject.Inject
+import kotlin.coroutines.cancellation.CancellationException
 
 val LocalAppNav = compositionLocalOf { AppNav() }
 
@@ -42,21 +49,27 @@ class MainActivity : ComponentActivity() {
     @Inject
     lateinit var realmHelper: RealmHelper
 
+    @Inject
+    lateinit var dialogController: DialogController
+
     private var mCustomTabActivityHelper: CustomTabActivityHelper? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mCustomTabActivityHelper = CustomTabActivityHelper(this)
         with(realmHelper) {
-            lifecycleScope.launch {
-                DataSource.create(this@MainActivity)?.let {
-                    insertContestsDataset(it)
-                }
+            DataSource.create(this@MainActivity)?.let {
+                handleContestDataset(it)
             }
         }
+
+        enableEdgeToEdge()
+
         setContent {
             EurovisionHistoryTheme {
-                MainApp()
+                MainApp(
+                    dialogController = dialogController
+                )
             }
         }
     }
@@ -75,8 +88,36 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun MainApp(
     appState: MainAppState = rememberMainAppState(),
+    dialogController: DialogController
 ) {
+    val coroutineScope = rememberCoroutineScope()
     val currentDestination = appState.navigator.currentDestination
+
+    // When dialog is shown we handle back differently
+    if (dialogController.dialogQueue.value.isNotEmpty()) {
+        with(dialogController.dialogQueue.value[0]) {
+            this.content()
+        }
+        BackHandler {
+            dialogController.consumeDialog(coroutineScope)
+            return@BackHandler
+        }
+    } else {
+        PredictiveBackHandler { progress: Flow<BackEventCompat> ->
+            try {
+                progress.collect { backevent ->
+                    Timber.tag("back").i(backevent.toString())
+                }
+                //completion
+                if (!appState.navigator.onBackClick()) {
+                    // TODO app exit dialog or snackbar
+                }
+            } catch (e: CancellationException) {
+                // nothing
+            }
+        }
+    }
+
     CompositionLocalProvider(LocalAppNav provides appState.navigator) {
         Scaffold(
             topBar = {

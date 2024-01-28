@@ -8,6 +8,7 @@ import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import de.rauschdo.eschistory.data.DbContest
 import de.rauschdo.eschistory.data.DbContestLocation
+import de.rauschdo.eschistory.data.DbDataset
 import io.realm.kotlin.Realm
 import io.realm.kotlin.RealmConfiguration
 import javax.inject.Singleton
@@ -24,6 +25,7 @@ object RealmModule {
             .Builder(
                 schema = setOf(
                     // Add tables here
+                    DbDataset::class,
                     DbContest::class,
                     DbContestLocation::class
                 )

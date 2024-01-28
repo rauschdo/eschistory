@@ -3,6 +3,7 @@ package de.rauschdo.eschistory.ui.home
 import de.rauschdo.eschistory.architecture.NavigationRequest
 import de.rauschdo.eschistory.architecture.ViewEvent
 import de.rauschdo.eschistory.architecture.ViewState
+import de.rauschdo.eschistory.data.ContestsList
 
 class HomeContract {
 
@@ -11,6 +12,6 @@ class HomeContract {
     sealed class Navigation : NavigationRequest
 
     data class UiState(
-        val param1: Any? = null
+        val contests: List<ContestsList.Contest> = emptyList()
     ) : ViewState
 }

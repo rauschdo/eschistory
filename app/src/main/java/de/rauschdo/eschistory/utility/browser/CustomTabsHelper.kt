@@ -14,7 +14,6 @@ import androidx.compose.material.icons.filled.Close
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.ImageBitmap
 import androidx.compose.ui.graphics.asAndroidBitmap
-import de.rauschdo.eschistory.MainActivity
 import timber.log.Timber
 
 const val STABLE_PACKAGE = "com.android.chrome"

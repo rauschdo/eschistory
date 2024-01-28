@@ -8,6 +8,7 @@ import de.rauschdo.eschistory.data.mapToContests
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.collectLatest
+import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import timber.log.Timber
 import javax.inject.Inject
@@ -23,9 +24,10 @@ class HomeViewModel @Inject constructor(
 
     init {
         viewModelScope.launch {
-            realmHelper.contestFlow.collectLatest {
-                with(it.list.toList().mapToContests()) {
-                    Timber.i("$this")
+            realmHelper.datasetFlow.collectLatest { datasets ->
+                with(datasets.list.toList().maxBy { it.version }) {
+                    Timber.i("Dataset version ${this.version} used.")
+                    _uiState.update { it.copy(contests = contests.mapToContests()) }
                 }
             }
         }
