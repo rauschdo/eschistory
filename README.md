@@ -12,3 +12,8 @@ More to come...
 - [Atlas Device SDK (previously Realm)](https://www.mongodb.com/docs/realm/sdk/kotlin/) as example for persistance
 - [Coil](https://coil-kt.github.io/coil/compose/) for image loading
 - [Showkase](https://github.com/airbnb/Showkase) for visualizing UI Elements
+
+## 📝 Plans
+
+- Maps Integrations [Google Maps Compose](https://github.com/googlemaps/android-maps-compose), maybe OpenStreetMap alternative via [OsmDroid](https://github.com/osmdroid/osmdroid) where user can choose or opt-out
+- Example for [Maestro](https://github.com/mobile-dev-inc/maestro?tab=readme-ov-file) Test locally, not cloud
